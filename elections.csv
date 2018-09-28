@@ -1,0 +1,2143 @@
+year,state,votes,candidate,party,short_state
+2016,Alabama,729547,"Clinton, Hillary",Democratic,AL
+2016,Alaska,116454,"Clinton, Hillary",Democratic,AK
+2016,Arizona,1161167,"Clinton, Hillary",Democratic,AZ
+2016,Arkansas,380494,"Clinton, Hillary",Democratic,AR
+2016,California,8753788,"Clinton, Hillary",Democratic,CA
+2016,Colorado,1338870,"Clinton, Hillary",Democratic,CO
+2016,Connecticut,897572,"Clinton, Hillary",Democratic,CT
+2016,Delaware,235603,"Clinton, Hillary",Democratic,DE
+2016,Florida,4504975,"Clinton, Hillary",Democratic,FL
+2016,Georgia,1877963,"Clinton, Hillary",Democratic,GA
+2016,Hawaii,266891,"Clinton, Hillary",Democratic,HI
+2016,Idaho,189765,"Clinton, Hillary",Democratic,ID
+2016,Illinois,3090729,"Clinton, Hillary",Democratic,IL
+2016,Indiana,1033126,"Clinton, Hillary",Democratic,IN
+2016,Iowa,653669,"Clinton, Hillary",Democratic,IA
+2016,Kansas,427005,"Clinton, Hillary",Democratic,KS
+2016,Kentucky,628854,"Clinton, Hillary",Democratic,KY
+2016,Louisiana,780154,"Clinton, Hillary",Democratic,LA
+2016,Maine,357735,"Clinton, Hillary",Democratic,ME
+2016,Maryland,1677928,"Clinton, Hillary",Democratic,MD
+2016,Massachusetts,1995196,"Clinton, Hillary",Democratic,MA
+2016,Michigan,2268839,"Clinton, Hillary",Democratic,MI
+2016,Minnesota,1367825,"Clinton, Hillary",Democratic,MN
+2016,Mississippi,485131,"Clinton, Hillary",Democratic,MS
+2016,Missouri,1071068,"Clinton, Hillary",Democratic,MO
+2016,Montana,177709,"Clinton, Hillary",Democratic,MT
+2016,Nebraska,284494,"Clinton, Hillary",Democratic,NE
+2016,Nevada,539260,"Clinton, Hillary",Democratic,NV
+2016,New Hampshire,348526,"Clinton, Hillary",Democratic,NH
+2016,New Jersey,2148278,"Clinton, Hillary",Democratic,NJ
+2016,New Mexico,385234,"Clinton, Hillary",Democratic,NM
+2016,New York,4556124,"Clinton, Hillary",Democratic,NY
+2016,North Carolina,2189316,"Clinton, Hillary",Democratic,NC
+2016,North Dakota,93758,"Clinton, Hillary",Democratic,ND
+2016,Ohio,2394164,"Clinton, Hillary",Democratic,OH
+2016,Oklahoma,420375,"Clinton, Hillary",Democratic,OK
+2016,Oregon,1002106,"Clinton, Hillary",Democratic,OR
+2016,Pennsylvania,2926441,"Clinton, Hillary",Democratic,PA
+2016,Rhode Island,252525,"Clinton, Hillary",Democratic,RI
+2016,South Carolina,855373,"Clinton, Hillary",Democratic,SC
+2016,South Dakota,117458,"Clinton, Hillary",Democratic,SD
+2016,Tennessee,870695,"Clinton, Hillary",Democratic,TN
+2016,Texas,3877868,"Clinton, Hillary",Democratic,TX
+2016,Utah,310676,"Clinton, Hillary",Democratic,UT
+2016,Vermont,178573,"Clinton, Hillary",Democratic,VT
+2016,Virginia,1981473,"Clinton, Hillary",Democratic,VA
+2016,Washington,1742718,"Clinton, Hillary",Democratic,WA
+2016,West Virginia,188794,"Clinton, Hillary",Democratic,WV
+2016,Wisconsin,1382536,"Clinton, Hillary",Democratic,WI
+2016,Wyoming,55973,"Clinton, Hillary",Democratic,WY
+2016,Washington DC,282830,"Clinton, Hillary",Democratic,DC
+2016,Alabama,1318255,"Trump, Donald",Republican,AL
+2016,Alaska,163387,"Trump, Donald",Republican,AK
+2016,Arizona,1252401,"Trump, Donald",Republican,AZ
+2016,Arkansas,684872,"Trump, Donald",Republican,AR
+2016,California,4483810,"Trump, Donald",Republican,CA
+2016,Colorado,1202484,"Trump, Donald",Republican,CO
+2016,Connecticut,673215,"Trump, Donald",Republican,CT
+2016,Delaware,185127,"Trump, Donald",Republican,DE
+2016,Florida,4617886,"Trump, Donald",Republican,FL
+2016,Georgia,2089104,"Trump, Donald",Republican,GA
+2016,Hawaii,128847,"Trump, Donald",Republican,HI
+2016,Idaho,409055,"Trump, Donald",Republican,ID
+2016,Illinois,2146015,"Trump, Donald",Republican,IL
+2016,Indiana,1557286,"Trump, Donald",Republican,IN
+2016,Iowa,800983,"Trump, Donald",Republican,IA
+2016,Kansas,671018,"Trump, Donald",Republican,KS
+2016,Kentucky,1202971,"Trump, Donald",Republican,KY
+2016,Louisiana,1178638,"Trump, Donald",Republican,LA
+2016,Maine,335593,"Trump, Donald",Republican,ME
+2016,Maryland,943169,"Trump, Donald",Republican,MD
+2016,Massachusetts,1090893,"Trump, Donald",Republican,MA
+2016,Michigan,2279543,"Trump, Donald",Republican,MI
+2016,Minnesota,1323232,"Trump, Donald",Republican,MN
+2016,Mississippi,700714,"Trump, Donald",Republican,MS
+2016,Missouri,1594511,"Trump, Donald",Republican,MO
+2016,Montana,279240,"Trump, Donald",Republican,MT
+2016,Nebraska,495961,"Trump, Donald",Republican,NE
+2016,Nevada,512058,"Trump, Donald",Republican,NV
+2016,New Hampshire,345790,"Trump, Donald",Republican,NH
+2016,New Jersey,1601933,"Trump, Donald",Republican,NJ
+2016,New Mexico,319667,"Trump, Donald",Republican,NM
+2016,New York,2819534,"Trump, Donald",Republican,NY
+2016,North Carolina,2362631,"Trump, Donald",Republican,NC
+2016,North Dakota,216794,"Trump, Donald",Republican,ND
+2016,Ohio,2841005,"Trump, Donald",Republican,OH
+2016,Oklahoma,949136,"Trump, Donald",Republican,OK
+2016,Oregon,782403,"Trump, Donald",Republican,OR
+2016,Pennsylvania,2970733,"Trump, Donald",Republican,PA
+2016,Rhode Island,180543,"Trump, Donald",Republican,RI
+2016,South Carolina,1155389,"Trump, Donald",Republican,SC
+2016,South Dakota,227721,"Trump, Donald",Republican,SD
+2016,Tennessee,1522925,"Trump, Donald",Republican,TN
+2016,Texas,4685047,"Trump, Donald",Republican,TX
+2016,Utah,515231,"Trump, Donald",Republican,UT
+2016,Vermont,95369,"Trump, Donald",Republican,VT
+2016,Virginia,1769443,"Trump, Donald",Republican,VA
+2016,Washington,1221747,"Trump, Donald",Republican,WA
+2016,West Virginia,489371,"Trump, Donald",Republican,WV
+2016,Wisconsin,1405284,"Trump, Donald",Republican,WI
+2016,Wyoming,174419,"Trump, Donald",Republican,WY
+2016,Washington DC,12723,"Trump, Donald",Republican,DC
+2016,Alabama,44467,"Johnson, Gary",Libertarian,AL
+2016,Alaska,18725,"Johnson, Gary",Libertarian,AK
+2016,Arizona,106327,"Johnson, Gary",Libertarian,AZ
+2016,Arkansas,29829,"Johnson, Gary",Libertarian,AR
+2016,California,478500,"Johnson, Gary",Libertarian,CA
+2016,Colorado,144121,"Johnson, Gary",Libertarian,CO
+2016,Connecticut,48676,"Johnson, Gary",Libertarian,CT
+2016,Delaware,14757,"Johnson, Gary",Libertarian,DE
+2016,Florida,207043,"Johnson, Gary",Libertarian,FL
+2016,Georgia,125306,"Johnson, Gary",Libertarian,GA
+2016,Hawaii,15954,"Johnson, Gary",Libertarian,HI
+2016,Idaho,28331,"Johnson, Gary",Libertarian,ID
+2016,Illinois,209596,"Johnson, Gary",Libertarian,IL
+2016,Indiana,133993,"Johnson, Gary",Libertarian,IN
+2016,Iowa,59186,"Johnson, Gary",Libertarian,IA
+2016,Kansas,55406,"Johnson, Gary",Libertarian,KS
+2016,Kentucky,53752,"Johnson, Gary",Libertarian,KY
+2016,Louisiana,37978,"Johnson, Gary",Libertarian,LA
+2016,Maine,38105,"Johnson, Gary",Libertarian,ME
+2016,Maryland,79605,"Johnson, Gary",Libertarian,MD
+2016,Massachusetts,138018,"Johnson, Gary",Libertarian,MA
+2016,Michigan,172136,"Johnson, Gary",Libertarian,MI
+2016,Minnesota,112984,"Johnson, Gary",Libertarian,MN
+2016,Mississippi,14435,"Johnson, Gary",Libertarian,MS
+2016,Missouri,97359,"Johnson, Gary",Libertarian,MO
+2016,Montana,28037,"Johnson, Gary",Libertarian,MT
+2016,Nebraska,38946,"Johnson, Gary",Libertarian,NE
+2016,Nevada,37384,"Johnson, Gary",Libertarian,NV
+2016,New Hampshire,30777,"Johnson, Gary",Libertarian,NH
+2016,New Jersey,72477,"Johnson, Gary",Libertarian,NJ
+2016,New Mexico,74541,"Johnson, Gary",Libertarian,NM
+2016,New York,176598,"Johnson, Gary",Libertarian,NY
+2016,North Carolina,130126,"Johnson, Gary",Libertarian,NC
+2016,North Dakota,21434,"Johnson, Gary",Libertarian,ND
+2016,Ohio,174498,"Johnson, Gary",Libertarian,OH
+2016,Oklahoma,83481,"Johnson, Gary",Libertarian,OK
+2016,Oregon,94231,"Johnson, Gary",Libertarian,OR
+2016,Pennsylvania,146715,"Johnson, Gary",Libertarian,PA
+2016,Rhode Island,14746,"Johnson, Gary",Libertarian,RI
+2016,South Carolina,49204,"Johnson, Gary",Libertarian,SC
+2016,South Dakota,20850,"Johnson, Gary",Libertarian,SD
+2016,Tennessee,70397,"Johnson, Gary",Libertarian,TN
+2016,Texas,283492,"Johnson, Gary",Libertarian,TX
+2016,Utah,39608,"Johnson, Gary",Libertarian,UT
+2016,Vermont,10078,"Johnson, Gary",Libertarian,VT
+2016,Virginia,118274,"Johnson, Gary",Libertarian,VA
+2016,Washington,160879,"Johnson, Gary",Libertarian,WA
+2016,West Virginia,23004,"Johnson, Gary",Libertarian,WV
+2016,Wisconsin,106674,"Johnson, Gary",Libertarian,WI
+2016,Wyoming,13287,"Johnson, Gary",Libertarian,WY
+2016,Washington DC,4906,"Johnson, Gary",Libertarian,DC
+2012,Alabama,795696,"Obama, Barack",Democratic,AL
+2012,Alaska,122640,"Obama, Barack",Democratic,AK
+2012,Arizona,1025232,"Obama, Barack",Democratic,AZ
+2012,Arkansas,394409,"Obama, Barack",Democratic,AR
+2012,California,7854285,"Obama, Barack",Democratic,CA
+2012,Colorado,1323102,"Obama, Barack",Democratic,CO
+2012,Connecticut,905109,"Obama, Barack",Democratic,CT
+2012,Delaware,242584,"Obama, Barack",Democratic,DE
+2012,Florida,4237756,"Obama, Barack",Democratic,FL
+2012,Georgia,1773827,"Obama, Barack",Democratic,GA
+2012,Hawaii,306658,"Obama, Barack",Democratic,HI
+2012,Idaho,212787,"Obama, Barack",Democratic,ID
+2012,Illinois,3019512,"Obama, Barack",Democratic,IL
+2012,Indiana,1154275,"Obama, Barack",Democratic,IN
+2012,Iowa,822544,"Obama, Barack",Democratic,IA
+2012,Kansas,439908,"Obama, Barack",Democratic,KS
+2012,Kentucky,679370,"Obama, Barack",Democratic,KY
+2012,Louisiana,809141,"Obama, Barack",Democratic,LA
+2012,Maine,401306,"Obama, Barack",Democratic,ME
+2012,Maryland,1677844,"Obama, Barack",Democratic,MD
+2012,Massachusetts,1921761,"Obama, Barack",Democratic,MA
+2012,Michigan,2564569,"Obama, Barack",Democratic,MI
+2012,Minnesota,1546167,"Obama, Barack",Democratic,MN
+2012,Mississippi,562949,"Obama, Barack",Democratic,MS
+2012,Missouri,1223796,"Obama, Barack",Democratic,MO
+2012,Montana,201839,"Obama, Barack",Democratic,MT
+2012,Nebraska,302081,"Obama, Barack",Democratic,NE
+2012,Nevada,531373,"Obama, Barack",Democratic,NV
+2012,New Hampshire,369561,"Obama, Barack",Democratic,NH
+2012,New Jersey,2126610,"Obama, Barack",Democratic,NJ
+2012,New Mexico,415335,"Obama, Barack",Democratic,NM
+2012,New York,4485877,"Obama, Barack",Democratic,NY
+2012,North Carolina,2178391,"Obama, Barack",Democratic,NC
+2012,North Dakota,124827,"Obama, Barack",Democratic,ND
+2012,Ohio,2827709,"Obama, Barack",Democratic,OH
+2012,Oklahoma,443547,"Obama, Barack",Democratic,OK
+2012,Oregon,970488,"Obama, Barack",Democratic,OR
+2012,Pennsylvania,2990274,"Obama, Barack",Democratic,PA
+2012,Rhode Island,279677,"Obama, Barack",Democratic,RI
+2012,South Carolina,865941,"Obama, Barack",Democratic,SC
+2012,South Dakota,145039,"Obama, Barack",Democratic,SD
+2012,Tennessee,960709,"Obama, Barack",Democratic,TN
+2012,Texas,3308124,"Obama, Barack",Democratic,TX
+2012,Utah,251813,"Obama, Barack",Democratic,UT
+2012,Vermont,199239,"Obama, Barack",Democratic,VT
+2012,Virginia,1971820,"Obama, Barack",Democratic,VA
+2012,Washington,1755396,"Obama, Barack",Democratic,WA
+2012,West Virginia,238269,"Obama, Barack",Democratic,WV
+2012,Wisconsin,1620985,"Obama, Barack",Democratic,WI
+2012,Wyoming,69286,"Obama, Barack",Democratic,WY
+2012,Washington DC,267070,"Obama, Barack",Democratic,DC
+2012,Alabama,1255925,"Romney, Mitt",Republican,AL
+2012,Alaska,164676,"Romney, Mitt",Republican,AK
+2012,Arizona,1233654,"Romney, Mitt",Republican,AZ
+2012,Arkansas,647744,"Romney, Mitt",Republican,AR
+2012,California,4839958,"Romney, Mitt",Republican,CA
+2012,Colorado,1185243,"Romney, Mitt",Republican,CO
+2012,Connecticut,634899,"Romney, Mitt",Republican,CT
+2012,Delaware,165484,"Romney, Mitt",Republican,DE
+2012,Florida,4163447,"Romney, Mitt",Republican,FL
+2012,Georgia,2078688,"Romney, Mitt",Republican,GA
+2012,Hawaii,121015,"Romney, Mitt",Republican,HI
+2012,Idaho,420911,"Romney, Mitt",Republican,ID
+2012,Illinois,2135216,"Romney, Mitt",Republican,IL
+2012,Indiana,1422872,"Romney, Mitt",Republican,IN
+2012,Iowa,730617,"Romney, Mitt",Republican,IA
+2012,Kansas,689809,"Romney, Mitt",Republican,KS
+2012,Kentucky,1087190,"Romney, Mitt",Republican,KY
+2012,Louisiana,1152262,"Romney, Mitt",Republican,LA
+2012,Maine,292276,"Romney, Mitt",Republican,ME
+2012,Maryland,971869,"Romney, Mitt",Republican,MD
+2012,Massachusetts,1188460,"Romney, Mitt",Republican,MA
+2012,Michigan,2115256,"Romney, Mitt",Republican,MI
+2012,Minnesota,1320225,"Romney, Mitt",Republican,MN
+2012,Mississippi,710746,"Romney, Mitt",Republican,MS
+2012,Missouri,1482440,"Romney, Mitt",Republican,MO
+2012,Montana,267928,"Romney, Mitt",Republican,MT
+2012,Nebraska,475064,"Romney, Mitt",Republican,NE
+2012,Nevada,463567,"Romney, Mitt",Republican,NV
+2012,New Hampshire,329918,"Romney, Mitt",Republican,NH
+2012,New Jersey,1478749,"Romney, Mitt",Republican,NJ
+2012,New Mexico,335788,"Romney, Mitt",Republican,NM
+2012,New York,2490496,"Romney, Mitt",Republican,NY
+2012,North Carolina,2270395,"Romney, Mitt",Republican,NC
+2012,North Dakota,188163,"Romney, Mitt",Republican,ND
+2012,Ohio,2661437,"Romney, Mitt",Republican,OH
+2012,Oklahoma,891325,"Romney, Mitt",Republican,OK
+2012,Oregon,754175,"Romney, Mitt",Republican,OR
+2012,Pennsylvania,2680434,"Romney, Mitt",Republican,PA
+2012,Rhode Island,157204,"Romney, Mitt",Republican,RI
+2012,South Carolina,1071645,"Romney, Mitt",Republican,SC
+2012,South Dakota,210610,"Romney, Mitt",Republican,SD
+2012,Tennessee,1462330,"Romney, Mitt",Republican,TN
+2012,Texas,4569843,"Romney, Mitt",Republican,TX
+2012,Utah,740600,"Romney, Mitt",Republican,UT
+2012,Vermont,92698,"Romney, Mitt",Republican,VT
+2012,Virginia,1822522,"Romney, Mitt",Republican,VA
+2012,Washington,1290670,"Romney, Mitt",Republican,WA
+2012,West Virginia,417655,"Romney, Mitt",Republican,WV
+2012,Wisconsin,1407966,"Romney, Mitt",Republican,WI
+2012,Wyoming,170962,"Romney, Mitt",Republican,WY
+2012,Washington DC,21381,"Romney, Mitt",Republican,DC
+2008,Alabama,813479,"Obama, Barack",Democratic,AL
+2008,Alaska,123594,"Obama, Barack",Democratic,AK
+2008,Arizona,1034707,"Obama, Barack",Democratic,AZ
+2008,Arkansas,422310,"Obama, Barack",Democratic,AR
+2008,California,8274473,"Obama, Barack",Democratic,CA
+2008,Colorado,1288633,"Obama, Barack",Democratic,CO
+2008,Connecticut,997773,"Obama, Barack",Democratic,CT
+2008,Delaware,255459,"Obama, Barack",Democratic,DE
+2008,Florida,4282367,"Obama, Barack",Democratic,FL
+2008,Georgia,1844123,"Obama, Barack",Democratic,GA
+2008,Hawaii,325871,"Obama, Barack",Democratic,HI
+2008,Idaho,236440,"Obama, Barack",Democratic,ID
+2008,Illinois,3419348,"Obama, Barack",Democratic,IL
+2008,Indiana,1374039,"Obama, Barack",Democratic,IN
+2008,Iowa,828940,"Obama, Barack",Democratic,IA
+2008,Kansas,514765,"Obama, Barack",Democratic,KS
+2008,Kentucky,751985,"Obama, Barack",Democratic,KY
+2008,Louisiana,782989,"Obama, Barack",Democratic,LA
+2008,Maine,421923,"Obama, Barack",Democratic,ME
+2008,Maryland,1629467,"Obama, Barack",Democratic,MD
+2008,Massachusetts,1904098,"Obama, Barack",Democratic,MA
+2008,Michigan,2872579,"Obama, Barack",Democratic,MI
+2008,Minnesota,1573354,"Obama, Barack",Democratic,MN
+2008,Mississippi,554662,"Obama, Barack",Democratic,MS
+2008,Missouri,1441911,"Obama, Barack",Democratic,MO
+2008,Montana,232159,"Obama, Barack",Democratic,MT
+2008,Nebraska,333319,"Obama, Barack",Democratic,NE
+2008,Nevada,533736,"Obama, Barack",Democratic,NV
+2008,New Hampshire,384826,"Obama, Barack",Democratic,NH
+2008,New Jersey,2215422,"Obama, Barack",Democratic,NJ
+2008,New Mexico,472422,"Obama, Barack",Democratic,NM
+2008,New York,4804945,"Obama, Barack",Democratic,NY
+2008,North Carolina,2142651,"Obama, Barack",Democratic,NC
+2008,North Dakota,141403,"Obama, Barack",Democratic,ND
+2008,Ohio,2940044,"Obama, Barack",Democratic,OH
+2008,Oklahoma,502496,"Obama, Barack",Democratic,OK
+2008,Oregon,1037291,"Obama, Barack",Democratic,OR
+2008,Pennsylvania,3276363,"Obama, Barack",Democratic,PA
+2008,Rhode Island,296571,"Obama, Barack",Democratic,RI
+2008,South Carolina,862449,"Obama, Barack",Democratic,SC
+2008,South Dakota,170924,"Obama, Barack",Democratic,SD
+2008,Tennessee,1087437,"Obama, Barack",Democratic,TN
+2008,Texas,3528633,"Obama, Barack",Democratic,TX
+2008,Utah,327670,"Obama, Barack",Democratic,UT
+2008,Vermont,219262,"Obama, Barack",Democratic,VT
+2008,Virginia,1959532,"Obama, Barack",Democratic,VA
+2008,Washington,1750848,"Obama, Barack",Democratic,WA
+2008,West Virginia,303857,"Obama, Barack",Democratic,WV
+2008,Wisconsin,1677211,"Obama, Barack",Democratic,WI
+2008,Wyoming,82868,"Obama, Barack",Democratic,WY
+2008,Washington DC,245800,"Obama, Barack",Democratic,DC
+2008,Alabama,1266546,"McCain, John",Republican,AL
+2008,Alaska,193841,"McCain, John",Republican,AK
+2008,Arizona,1230111,"McCain, John",Republican,AZ
+2008,Arkansas,638017,"McCain, John",Republican,AR
+2008,California,5011781,"McCain, John",Republican,CA
+2008,Colorado,1073629,"McCain, John",Republican,CO
+2008,Connecticut,629428,"McCain, John",Republican,CT
+2008,Delaware,152374,"McCain, John",Republican,DE
+2008,Florida,4046219,"McCain, John",Republican,FL
+2008,Georgia,2048759,"McCain, John",Republican,GA
+2008,Hawaii,120566,"McCain, John",Republican,HI
+2008,Idaho,403012,"McCain, John",Republican,ID
+2008,Illinois,2031179,"McCain, John",Republican,IL
+2008,Indiana,1345648,"McCain, John",Republican,IN
+2008,Iowa,682379,"McCain, John",Republican,IA
+2008,Kansas,699655,"McCain, John",Republican,KS
+2008,Kentucky,1048462,"McCain, John",Republican,KY
+2008,Louisiana,1148275,"McCain, John",Republican,LA
+2008,Maine,295273,"McCain, John",Republican,ME
+2008,Maryland,959862,"McCain, John",Republican,MD
+2008,Massachusetts,1108854,"McCain, John",Republican,MA
+2008,Michigan,2048639,"McCain, John",Republican,MI
+2008,Minnesota,1275409,"McCain, John",Republican,MN
+2008,Mississippi,724597,"McCain, John",Republican,MS
+2008,Missouri,1445814,"McCain, John",Republican,MO
+2008,Montana,243882,"McCain, John",Republican,MT
+2008,Nebraska,452979,"McCain, John",Republican,NE
+2008,Nevada,412827,"McCain, John",Republican,NV
+2008,New Hampshire,316534,"McCain, John",Republican,NH
+2008,New Jersey,1613207,"McCain, John",Republican,NJ
+2008,New Mexico,346832,"McCain, John",Republican,NM
+2008,New York,2752771,"McCain, John",Republican,NY
+2008,North Carolina,2128474,"McCain, John",Republican,NC
+2008,North Dakota,168887,"McCain, John",Republican,ND
+2008,Ohio,2677820,"McCain, John",Republican,OH
+2008,Oklahoma,960165,"McCain, John",Republican,OK
+2008,Oregon,738475,"McCain, John",Republican,OR
+2008,Pennsylvania,2655885,"McCain, John",Republican,PA
+2008,Rhode Island,165391,"McCain, John",Republican,RI
+2008,South Carolina,1034896,"McCain, John",Republican,SC
+2008,South Dakota,203054,"McCain, John",Republican,SD
+2008,Tennessee,1479178,"McCain, John",Republican,TN
+2008,Texas,4479328,"McCain, John",Republican,TX
+2008,Utah,596030,"McCain, John",Republican,UT
+2008,Vermont,98974,"McCain, John",Republican,VT
+2008,Virginia,1725005,"McCain, John",Republican,VA
+2008,Washington,1229216,"McCain, John",Republican,WA
+2008,West Virginia,397466,"McCain, John",Republican,WV
+2008,Wisconsin,1262393,"McCain, John",Republican,WI
+2008,Wyoming,164958,"McCain, John",Republican,WY
+2008,Washington DC,17367,"McCain, John",Republican,DC
+2004,Alabama,693933,"Kerry, John",Democratic,AL
+2004,Alaska,111025,"Kerry, John",Democratic,AK
+2004,Arizona,893524,"Kerry, John",Democratic,AZ
+2004,Arkansas,469953,"Kerry, John",Democratic,AR
+2004,California,6745485,"Kerry, John",Democratic,CA
+2004,Colorado,1001725,"Kerry, John",Democratic,CO
+2004,Connecticut,857488,"Kerry, John",Democratic,CT
+2004,Delaware,200152,"Kerry, John",Democratic,DE
+2004,Florida,3583544,"Kerry, John",Democratic,FL
+2004,Georgia,1366149,"Kerry, John",Democratic,GA
+2004,Hawaii,231708,"Kerry, John",Democratic,HI
+2004,Idaho,181098,"Kerry, John",Democratic,ID
+2004,Illinois,2891550,"Kerry, John",Democratic,IL
+2004,Indiana,969011,"Kerry, John",Democratic,IN
+2004,Iowa,741898,"Kerry, John",Democratic,IA
+2004,Kansas,434993,"Kerry, John",Democratic,KS
+2004,Kentucky,712733,"Kerry, John",Democratic,KY
+2004,Louisiana,820299,"Kerry, John",Democratic,LA
+2004,Maine,396842,"Kerry, John",Democratic,ME
+2004,Maryland,1334493,"Kerry, John",Democratic,MD
+2004,Massachusetts,1803800,"Kerry, John",Democratic,MA
+2004,Michigan,2479183,"Kerry, John",Democratic,MI
+2004,Minnesota,1445014,"Kerry, John",Democratic,MN
+2004,Mississippi,458094,"Kerry, John",Democratic,MS
+2004,Missouri,1259171,"Kerry, John",Democratic,MO
+2004,Montana,173710,"Kerry, John",Democratic,MT
+2004,Nebraska,254328,"Kerry, John",Democratic,NE
+2004,Nevada,397190,"Kerry, John",Democratic,NV
+2004,New Hampshire,340511,"Kerry, John",Democratic,NH
+2004,New Jersey,1911430,"Kerry, John",Democratic,NJ
+2004,New Mexico,370942,"Kerry, John",Democratic,NM
+2004,New York,4314280,"Kerry, John",Democratic,NY
+2004,North Carolina,1525849,"Kerry, John",Democratic,NC
+2004,North Dakota,111052,"Kerry, John",Democratic,ND
+2004,Ohio,2741167,"Kerry, John",Democratic,OH
+2004,Oklahoma,503966,"Kerry, John",Democratic,OK
+2004,Oregon,943163,"Kerry, John",Democratic,OR
+2004,Pennsylvania,2938095,"Kerry, John",Democratic,PA
+2004,Rhode Island,259760,"Kerry, John",Democratic,RI
+2004,South Carolina,661699,"Kerry, John",Democratic,SC
+2004,South Dakota,149244,"Kerry, John",Democratic,SD
+2004,Tennessee,1035160,"Kerry, John",Democratic,TN
+2004,Texas,2832704,"Kerry, John",Democratic,TX
+2004,Utah,241199,"Kerry, John",Democratic,UT
+2004,Vermont,184067,"Kerry, John",Democratic,VT
+2004,Virginia,1454742,"Kerry, John",Democratic,VA
+2004,Washington,1510201,"Kerry, John",Democratic,WA
+2004,West Virginia,326541,"Kerry, John",Democratic,WV
+2004,Wisconsin,1489504,"Kerry, John",Democratic,WI
+2004,Wyoming,70776,"Kerry, John",Democratic,WY
+2004,Washington DC,202970,"Kerry, John",Democratic,DC
+2004,Alabama,1176394,"Bush, George W.",Republican,AL
+2004,Alaska,190889,"Bush, George W.",Republican,AK
+2004,Arizona,1104294,"Bush, George W.",Republican,AZ
+2004,Arkansas,572898,"Bush, George W.",Republican,AR
+2004,California,5509826,"Bush, George W.",Republican,CA
+2004,Colorado,1101256,"Bush, George W.",Republican,CO
+2004,Connecticut,693826,"Bush, George W.",Republican,CT
+2004,Delaware,171660,"Bush, George W.",Republican,DE
+2004,Florida,3964522,"Bush, George W.",Republican,FL
+2004,Georgia,1914254,"Bush, George W.",Republican,GA
+2004,Hawaii,194191,"Bush, George W.",Republican,HI
+2004,Idaho,409235,"Bush, George W.",Republican,ID
+2004,Illinois,2345946,"Bush, George W.",Republican,IL
+2004,Indiana,1479438,"Bush, George W.",Republican,IN
+2004,Iowa,751957,"Bush, George W.",Republican,IA
+2004,Kansas,736456,"Bush, George W.",Republican,KS
+2004,Kentucky,1069439,"Bush, George W.",Republican,KY
+2004,Louisiana,1102169,"Bush, George W.",Republican,LA
+2004,Maine,330201,"Bush, George W.",Republican,ME
+2004,Maryland,1024703,"Bush, George W.",Republican,MD
+2004,Massachusetts,1071109,"Bush, George W.",Republican,MA
+2004,Michigan,2313746,"Bush, George W.",Republican,MI
+2004,Minnesota,1346695,"Bush, George W.",Republican,MN
+2004,Mississippi,684981,"Bush, George W.",Republican,MS
+2004,Missouri,1455713,"Bush, George W.",Republican,MO
+2004,Montana,266063,"Bush, George W.",Republican,MT
+2004,Nebraska,512814,"Bush, George W.",Republican,NE
+2004,Nevada,418690,"Bush, George W.",Republican,NV
+2004,New Hampshire,331237,"Bush, George W.",Republican,NH
+2004,New Jersey,1670003,"Bush, George W.",Republican,NJ
+2004,New Mexico,376930,"Bush, George W.",Republican,NM
+2004,New York,2962567,"Bush, George W.",Republican,NY
+2004,North Carolina,1961166,"Bush, George W.",Republican,NC
+2004,North Dakota,196651,"Bush, George W.",Republican,ND
+2004,Ohio,2859768,"Bush, George W.",Republican,OH
+2004,Oklahoma,959792,"Bush, George W.",Republican,OK
+2004,Oregon,866831,"Bush, George W.",Republican,OR
+2004,Pennsylvania,2793847,"Bush, George W.",Republican,PA
+2004,Rhode Island,169046,"Bush, George W.",Republican,RI
+2004,South Carolina,937974,"Bush, George W.",Republican,SC
+2004,South Dakota,232584,"Bush, George W.",Republican,SD
+2004,Tennessee,1383336,"Bush, George W.",Republican,TN
+2004,Texas,4526917,"Bush, George W.",Republican,TX
+2004,Utah,663742,"Bush, George W.",Republican,UT
+2004,Vermont,121180,"Bush, George W.",Republican,VT
+2004,Virginia,1716959,"Bush, George W.",Republican,VA
+2004,Washington,1304894,"Bush, George W.",Republican,WA
+2004,West Virginia,423778,"Bush, George W.",Republican,WV
+2004,Wisconsin,1478120,"Bush, George W.",Republican,WI
+2004,Wyoming,167629,"Bush, George W.",Republican,WY
+2004,Washington DC,21256,"Bush, George W.",Republican,DC
+2000,Alabama,695602,"Gore, Al",Democratic,AL
+2000,Alaska,79004,"Gore, Al",Democratic,AK
+2000,Arizona,685341,"Gore, Al",Democratic,AZ
+2000,Arkansas,422768,"Gore, Al",Democratic,AR
+2000,California,5861203,"Gore, Al",Democratic,CA
+2000,Colorado,738227,"Gore, Al",Democratic,CO
+2000,Connecticut,816015,"Gore, Al",Democratic,CT
+2000,Delaware,180068,"Gore, Al",Democratic,DE
+2000,Florida,2912253,"Gore, Al",Democratic,FL
+2000,Georgia,1116230,"Gore, Al",Democratic,GA
+2000,Hawaii,205286,"Gore, Al",Democratic,HI
+2000,Idaho,138637,"Gore, Al",Democratic,ID
+2000,Illinois,2589026,"Gore, Al",Democratic,IL
+2000,Indiana,901980,"Gore, Al",Democratic,IN
+2000,Iowa,638517,"Gore, Al",Democratic,IA
+2000,Kansas,399276,"Gore, Al",Democratic,KS
+2000,Kentucky,638898,"Gore, Al",Democratic,KY
+2000,Louisiana,792344,"Gore, Al",Democratic,LA
+2000,Maine,319951,"Gore, Al",Democratic,ME
+2000,Maryland,1145782,"Gore, Al",Democratic,MD
+2000,Massachusetts,1616487,"Gore, Al",Democratic,MA
+2000,Michigan,2170418,"Gore, Al",Democratic,MI
+2000,Minnesota,1168266,"Gore, Al",Democratic,MN
+2000,Mississippi,404964,"Gore, Al",Democratic,MS
+2000,Missouri,1111138,"Gore, Al",Democratic,MO
+2000,Montana,137126,"Gore, Al",Democratic,MT
+2000,Nebraska,231780,"Gore, Al",Democratic,NE
+2000,Nevada,279978,"Gore, Al",Democratic,NV
+2000,New Hampshire,266348,"Gore, Al",Democratic,NH
+2000,New Jersey,1788850,"Gore, Al",Democratic,NJ
+2000,New Mexico,286783,"Gore, Al",Democratic,NM
+2000,New York,4113791,"Gore, Al",Democratic,NY
+2000,North Carolina,1257692,"Gore, Al",Democratic,NC
+2000,North Dakota,95284,"Gore, Al",Democratic,ND
+2000,Ohio,2186190,"Gore, Al",Democratic,OH
+2000,Oklahoma,474276,"Gore, Al",Democratic,OK
+2000,Oregon,720342,"Gore, Al",Democratic,OR
+2000,Pennsylvania,2485967,"Gore, Al",Democratic,PA
+2000,Rhode Island,249508,"Gore, Al",Democratic,RI
+2000,South Carolina,566039,"Gore, Al",Democratic,SC
+2000,South Dakota,118804,"Gore, Al",Democratic,SD
+2000,Tennessee,981720,"Gore, Al",Democratic,TN
+2000,Texas,2433746,"Gore, Al",Democratic,TX
+2000,Utah,203053,"Gore, Al",Democratic,UT
+2000,Vermont,149022,"Gore, Al",Democratic,VT
+2000,Virginia,1217290,"Gore, Al",Democratic,VA
+2000,Washington,1247652,"Gore, Al",Democratic,WA
+2000,West Virginia,295497,"Gore, Al",Democratic,WV
+2000,Wisconsin,1242987,"Gore, Al",Democratic,WI
+2000,Wyoming,60481,"Gore, Al",Democratic,WY
+2000,Washington DC,171923,"Gore, Al",Democratic,DC
+2000,Alabama,944409,"Bush, George W.",Republican,AL
+2000,Alaska,167398,"Bush, George W.",Republican,AK
+2000,Arizona,781652,"Bush, George W.",Republican,AZ
+2000,Arkansas,472940,"Bush, George W.",Republican,AR
+2000,California,4567429,"Bush, George W.",Republican,CA
+2000,Colorado,883745,"Bush, George W.",Republican,CO
+2000,Connecticut,561094,"Bush, George W.",Republican,CT
+2000,Delaware,137288,"Bush, George W.",Republican,DE
+2000,Florida,2912790,"Bush, George W.",Republican,FL
+2000,Georgia,1419720,"Bush, George W.",Republican,GA
+2000,Hawaii,137845,"Bush, George W.",Republican,HI
+2000,Idaho,336937,"Bush, George W.",Republican,ID
+2000,Illinois,2019421,"Bush, George W.",Republican,IL
+2000,Indiana,1245836,"Bush, George W.",Republican,IN
+2000,Iowa,634373,"Bush, George W.",Republican,IA
+2000,Kansas,622332,"Bush, George W.",Republican,KS
+2000,Kentucky,872492,"Bush, George W.",Republican,KY
+2000,Louisiana,927871,"Bush, George W.",Republican,LA
+2000,Maine,286616,"Bush, George W.",Republican,ME
+2000,Maryland,813797,"Bush, George W.",Republican,MD
+2000,Massachusetts,878502,"Bush, George W.",Republican,MA
+2000,Michigan,1953139,"Bush, George W.",Republican,MI
+2000,Minnesota,1109659,"Bush, George W.",Republican,MN
+2000,Mississippi,573230,"Bush, George W.",Republican,MS
+2000,Missouri,1189924,"Bush, George W.",Republican,MO
+2000,Montana,240178,"Bush, George W.",Republican,MT
+2000,Nebraska,433862,"Bush, George W.",Republican,NE
+2000,Nevada,301575,"Bush, George W.",Republican,NV
+2000,New Hampshire,273559,"Bush, George W.",Republican,NH
+2000,New Jersey,1284173,"Bush, George W.",Republican,NJ
+2000,New Mexico,286417,"Bush, George W.",Republican,NM
+2000,New York,2405676,"Bush, George W.",Republican,NY
+2000,North Carolina,1631163,"Bush, George W.",Republican,NC
+2000,North Dakota,174852,"Bush, George W.",Republican,ND
+2000,Ohio,2351209,"Bush, George W.",Republican,OH
+2000,Oklahoma,744337,"Bush, George W.",Republican,OK
+2000,Oregon,713577,"Bush, George W.",Republican,OR
+2000,Pennsylvania,2281127,"Bush, George W.",Republican,PA
+2000,Rhode Island,130555,"Bush, George W.",Republican,RI
+2000,South Carolina,786426,"Bush, George W.",Republican,SC
+2000,South Dakota,190700,"Bush, George W.",Republican,SD
+2000,Tennessee,1061949,"Bush, George W.",Republican,TN
+2000,Texas,3799639,"Bush, George W.",Republican,TX
+2000,Utah,515096,"Bush, George W.",Republican,UT
+2000,Vermont,119775,"Bush, George W.",Republican,VT
+2000,Virginia,1437490,"Bush, George W.",Republican,VA
+2000,Washington,1108864,"Bush, George W.",Republican,WA
+2000,West Virginia,336475,"Bush, George W.",Republican,WV
+2000,Wisconsin,1237279,"Bush, George W.",Republican,WI
+2000,Wyoming,147947,"Bush, George W.",Republican,WY
+2000,Washington DC,18073,"Bush, George W.",Republican,DC
+2000,Alabama,18349,"Nader, Ralph",Green,AL
+2000,Alaska,28747,"Nader, Ralph",Green,AK
+2000,Arizona,45645,"Nader, Ralph",Green,AZ
+2000,Arkansas,13421,"Nader, Ralph",Green,AR
+2000,California,418707,"Nader, Ralph",Green,CA
+2000,Colorado,91434,"Nader, Ralph",Green,CO
+2000,Connecticut,64452,"Nader, Ralph",Green,CT
+2000,Delaware,8307,"Nader, Ralph",Green,DE
+2000,Florida,97488,"Nader, Ralph",Green,FL
+2000,Georgia,13432,"Nader, Ralph",Green,GA
+2000,Hawaii,21623,"Nader, Ralph",Green,HI
+2000,Idaho,12292,"Nader, Ralph",Green,ID
+2000,Illinois,103759,"Nader, Ralph",Green,IL
+2000,Indiana,18531,"Nader, Ralph",Green,IN
+2000,Iowa,29374,"Nader, Ralph",Green,IA
+2000,Kansas,36086,"Nader, Ralph",Green,KS
+2000,Kentucky,23192,"Nader, Ralph",Green,KY
+2000,Louisiana,20473,"Nader, Ralph",Green,LA
+2000,Maine,37127,"Nader, Ralph",Green,ME
+2000,Maryland,53768,"Nader, Ralph",Green,MD
+2000,Massachusetts,173564,"Nader, Ralph",Green,MA
+2000,Michigan,84165,"Nader, Ralph",Green,MI
+2000,Minnesota,126696,"Nader, Ralph",Green,MN
+2000,Mississippi,8126,"Nader, Ralph",Green,MS
+2000,Missouri,38515,"Nader, Ralph",Green,MO
+2000,Montana,24437,"Nader, Ralph",Green,MT
+2000,Nebraska,24540,"Nader, Ralph",Green,NE
+2000,Nevada,15008,"Nader, Ralph",Green,NV
+2000,New Hampshire,22198,"Nader, Ralph",Green,NH
+2000,New Jersey,94554,"Nader, Ralph",Green,NJ
+2000,New Mexico,21251,"Nader, Ralph",Green,NM
+2000,New York,244398,"Nader, Ralph",Green,NY
+2000,North Carolina,0,"Nader, Ralph",Green,NC
+2000,North Dakota,9497,"Nader, Ralph",Green,ND
+2000,Ohio,117857,"Nader, Ralph",Green,OH
+2000,Oklahoma,0,"Nader, Ralph",Green,OK
+2000,Oregon,77357,"Nader, Ralph",Green,OR
+2000,Pennsylvania,103392,"Nader, Ralph",Green,PA
+2000,Rhode Island,25052,"Nader, Ralph",Green,RI
+2000,South Carolina,20279,"Nader, Ralph",Green,SC
+2000,South Dakota,0,"Nader, Ralph",Green,SD
+2000,Tennessee,19781,"Nader, Ralph",Green,TN
+2000,Texas,137994,"Nader, Ralph",Green,TX
+2000,Utah,35850,"Nader, Ralph",Green,UT
+2000,Vermont,20374,"Nader, Ralph",Green,VT
+2000,Virginia,59398,"Nader, Ralph",Green,VA
+2000,Washington,103002,"Nader, Ralph",Green,WA
+2000,West Virginia,10680,"Nader, Ralph",Green,WV
+2000,Wisconsin,94070,"Nader, Ralph",Green,WI
+2000,Wyoming,4625,"Nader, Ralph",Green,WY
+2000,Washington DC,10576,"Nader, Ralph",Green,DC
+1996,Alabama,662165,"Clinton, Bill",Democratic,AL
+1996,Alaska,80380,"Clinton, Bill",Democratic,AK
+1996,Arizona,653288,"Clinton, Bill",Democratic,AZ
+1996,Arkansas,475171,"Clinton, Bill",Democratic,AR
+1996,California,5119835,"Clinton, Bill",Democratic,CA
+1996,Colorado,671152,"Clinton, Bill",Democratic,CO
+1996,Connecticut,735740,"Clinton, Bill",Democratic,CT
+1996,Delaware,140355,"Clinton, Bill",Democratic,DE
+1996,Florida,2546870,"Clinton, Bill",Democratic,FL
+1996,Georgia,1053849,"Clinton, Bill",Democratic,GA
+1996,Hawaii,205012,"Clinton, Bill",Democratic,HI
+1996,Idaho,165443,"Clinton, Bill",Democratic,ID
+1996,Illinois,2341744,"Clinton, Bill",Democratic,IL
+1996,Indiana,887424,"Clinton, Bill",Democratic,IN
+1996,Iowa,620258,"Clinton, Bill",Democratic,IA
+1996,Kansas,387659,"Clinton, Bill",Democratic,KS
+1996,Kentucky,636614,"Clinton, Bill",Democratic,KY
+1996,Louisiana,927837,"Clinton, Bill",Democratic,LA
+1996,Maine,312788,"Clinton, Bill",Democratic,ME
+1996,Maryland,966207,"Clinton, Bill",Democratic,MD
+1996,Massachusetts,1571763,"Clinton, Bill",Democratic,MA
+1996,Michigan,1989653,"Clinton, Bill",Democratic,MI
+1996,Minnesota,1120438,"Clinton, Bill",Democratic,MN
+1996,Mississippi,394022,"Clinton, Bill",Democratic,MS
+1996,Missouri,1025935,"Clinton, Bill",Democratic,MO
+1996,Montana,167922,"Clinton, Bill",Democratic,MT
+1996,Nebraska,236761,"Clinton, Bill",Democratic,NE
+1996,Nevada,203974,"Clinton, Bill",Democratic,NV
+1996,New Hampshire,246214,"Clinton, Bill",Democratic,NH
+1996,New Jersey,1652329,"Clinton, Bill",Democratic,NJ
+1996,New Mexico,273495,"Clinton, Bill",Democratic,NM
+1996,New York,3756177,"Clinton, Bill",Democratic,NY
+1996,North Carolina,1107849,"Clinton, Bill",Democratic,NC
+1996,North Dakota,106905,"Clinton, Bill",Democratic,ND
+1996,Ohio,2148222,"Clinton, Bill",Democratic,OH
+1996,Oklahoma,488105,"Clinton, Bill",Democratic,OK
+1996,Oregon,649641,"Clinton, Bill",Democratic,OR
+1996,Pennsylvania,2215819,"Clinton, Bill",Democratic,PA
+1996,Rhode Island,233050,"Clinton, Bill",Democratic,RI
+1996,South Carolina,504051,"Clinton, Bill",Democratic,SC
+1996,South Dakota,139333,"Clinton, Bill",Democratic,SD
+1996,Tennessee,909146,"Clinton, Bill",Democratic,TN
+1996,Texas,2459683,"Clinton, Bill",Democratic,TX
+1996,Utah,221633,"Clinton, Bill",Democratic,UT
+1996,Vermont,137894,"Clinton, Bill",Democratic,VT
+1996,Virginia,1091060,"Clinton, Bill",Democratic,VA
+1996,Washington,1123323,"Clinton, Bill",Democratic,WA
+1996,West Virginia,327812,"Clinton, Bill",Democratic,WV
+1996,Wisconsin,1071971,"Clinton, Bill",Democratic,WI
+1996,Wyoming,77934,"Clinton, Bill",Democratic,WY
+1996,Washington DC,158220,"Clinton, Bill",Democratic,DC
+1996,Alabama,769044,"Dole, Bob",Republican,AL
+1996,Alaska,122746,"Dole, Bob",Republican,AK
+1996,Arizona,622073,"Dole, Bob",Republican,AZ
+1996,Arkansas,325416,"Dole, Bob",Republican,AR
+1996,California,3828380,"Dole, Bob",Republican,CA
+1996,Colorado,691848,"Dole, Bob",Republican,CO
+1996,Connecticut,483109,"Dole, Bob",Republican,CT
+1996,Delaware,99062,"Dole, Bob",Republican,DE
+1996,Florida,2244536,"Dole, Bob",Republican,FL
+1996,Georgia,1080843,"Dole, Bob",Republican,GA
+1996,Hawaii,113943,"Dole, Bob",Republican,HI
+1996,Idaho,256595,"Dole, Bob",Republican,ID
+1996,Illinois,1587021,"Dole, Bob",Republican,IL
+1996,Indiana,1006693,"Dole, Bob",Republican,IN
+1996,Iowa,492644,"Dole, Bob",Republican,IA
+1996,Kansas,583245,"Dole, Bob",Republican,KS
+1996,Kentucky,623283,"Dole, Bob",Republican,KY
+1996,Louisiana,712586,"Dole, Bob",Republican,LA
+1996,Maine,186378,"Dole, Bob",Republican,ME
+1996,Maryland,681530,"Dole, Bob",Republican,MD
+1996,Massachusetts,718107,"Dole, Bob",Republican,MA
+1996,Michigan,1481212,"Dole, Bob",Republican,MI
+1996,Minnesota,766476,"Dole, Bob",Republican,MN
+1996,Mississippi,439838,"Dole, Bob",Republican,MS
+1996,Missouri,890016,"Dole, Bob",Republican,MO
+1996,Montana,179652,"Dole, Bob",Republican,MT
+1996,Nebraska,363467,"Dole, Bob",Republican,NE
+1996,Nevada,199244,"Dole, Bob",Republican,NV
+1996,New Hampshire,196532,"Dole, Bob",Republican,NH
+1996,New Jersey,1103078,"Dole, Bob",Republican,NJ
+1996,New Mexico,232751,"Dole, Bob",Republican,NM
+1996,New York,1933492,"Dole, Bob",Republican,NY
+1996,North Carolina,1225938,"Dole, Bob",Republican,NC
+1996,North Dakota,125050,"Dole, Bob",Republican,ND
+1996,Ohio,1859883,"Dole, Bob",Republican,OH
+1996,Oklahoma,582315,"Dole, Bob",Republican,OK
+1996,Oregon,538152,"Dole, Bob",Republican,OR
+1996,Pennsylvania,1801169,"Dole, Bob",Republican,PA
+1996,Rhode Island,104683,"Dole, Bob",Republican,RI
+1996,South Carolina,573458,"Dole, Bob",Republican,SC
+1996,South Dakota,150543,"Dole, Bob",Republican,SD
+1996,Tennessee,863530,"Dole, Bob",Republican,TN
+1996,Texas,2736167,"Dole, Bob",Republican,TX
+1996,Utah,361911,"Dole, Bob",Republican,UT
+1996,Vermont,80352,"Dole, Bob",Republican,VT
+1996,Virginia,1138350,"Dole, Bob",Republican,VA
+1996,Washington,840712,"Dole, Bob",Republican,WA
+1996,West Virginia,233946,"Dole, Bob",Republican,WV
+1996,Wisconsin,845029,"Dole, Bob",Republican,WI
+1996,Wyoming,105388,"Dole, Bob",Republican,WY
+1996,Washington DC,17339,"Dole, Bob",Republican,DC
+1996,Alabama,92149,"Perot, Ross",Reform,AL
+1996,Alaska,26333,"Perot, Ross",Reform,AK
+1996,Arizona,112072,"Perot, Ross",Reform,AZ
+1996,Arkansas,69884,"Perot, Ross",Reform,AR
+1996,California,697847,"Perot, Ross",Reform,CA
+1996,Colorado,99629,"Perot, Ross",Reform,CO
+1996,Connecticut,139523,"Perot, Ross",Reform,CT
+1996,Delaware,28719,"Perot, Ross",Reform,DE
+1996,Florida,483870,"Perot, Ross",Reform,FL
+1996,Georgia,146337,"Perot, Ross",Reform,GA
+1996,Hawaii,27358,"Perot, Ross",Reform,HI
+1996,Idaho,62518,"Perot, Ross",Reform,ID
+1996,Illinois,346408,"Perot, Ross",Reform,IL
+1996,Indiana,224299,"Perot, Ross",Reform,IN
+1996,Iowa,105159,"Perot, Ross",Reform,IA
+1996,Kansas,92639,"Perot, Ross",Reform,KS
+1996,Kentucky,120396,"Perot, Ross",Reform,KY
+1996,Louisiana,123293,"Perot, Ross",Reform,LA
+1996,Maine,85970,"Perot, Ross",Reform,ME
+1996,Maryland,115812,"Perot, Ross",Reform,MD
+1996,Massachusetts,227217,"Perot, Ross",Reform,MA
+1996,Michigan,336670,"Perot, Ross",Reform,MI
+1996,Minnesota,257704,"Perot, Ross",Reform,MN
+1996,Mississippi,52222,"Perot, Ross",Reform,MS
+1996,Missouri,217188,"Perot, Ross",Reform,MO
+1996,Montana,55229,"Perot, Ross",Reform,MT
+1996,Nebraska,71278,"Perot, Ross",Reform,NE
+1996,Nevada,43986,"Perot, Ross",Reform,NV
+1996,New Hampshire,48390,"Perot, Ross",Reform,NH
+1996,New Jersey,262134,"Perot, Ross",Reform,NJ
+1996,New Mexico,32257,"Perot, Ross",Reform,NM
+1996,New York,503458,"Perot, Ross",Reform,NY
+1996,North Carolina,168059,"Perot, Ross",Reform,NC
+1996,North Dakota,32515,"Perot, Ross",Reform,ND
+1996,Ohio,483207,"Perot, Ross",Reform,OH
+1996,Oklahoma,130788,"Perot, Ross",Reform,OK
+1996,Oregon,121221,"Perot, Ross",Reform,OR
+1996,Pennsylvania,430984,"Perot, Ross",Reform,PA
+1996,Rhode Island,43723,"Perot, Ross",Reform,RI
+1996,South Carolina,64386,"Perot, Ross",Reform,SC
+1996,South Dakota,31250,"Perot, Ross",Reform,SD
+1996,Tennessee,105918,"Perot, Ross",Reform,TN
+1996,Texas,378537,"Perot, Ross",Reform,TX
+1996,Utah,66461,"Perot, Ross",Reform,UT
+1996,Vermont,31024,"Perot, Ross",Reform,VT
+1996,Virginia,159861,"Perot, Ross",Reform,VA
+1996,Washington,201003,"Perot, Ross",Reform,WA
+1996,West Virginia,71639,"Perot, Ross",Reform,WV
+1996,Wisconsin,227339,"Perot, Ross",Reform,WI
+1996,Wyoming,25928,"Perot, Ross",Reform,WY
+1996,Washington DC,3611,"Perot, Ross",Reform,DC
+1992,Alabama,690080,"Clinton, Bill",Democratic,AL
+1992,Alaska,78294,"Clinton, Bill",Democratic,AK
+1992,Arizona,543050,"Clinton, Bill",Democratic,AZ
+1992,Arkansas,505823,"Clinton, Bill",Democratic,AR
+1992,California,5121325,"Clinton, Bill",Democratic,CA
+1992,Colorado,629681,"Clinton, Bill",Democratic,CO
+1992,Connecticut,682318,"Clinton, Bill",Democratic,CT
+1992,Delaware,126054,"Clinton, Bill",Democratic,DE
+1992,Florida,2072698,"Clinton, Bill",Democratic,FL
+1992,Georgia,1008966,"Clinton, Bill",Democratic,GA
+1992,Hawaii,179310,"Clinton, Bill",Democratic,HI
+1992,Idaho,137013,"Clinton, Bill",Democratic,ID
+1992,Illinois,2453350,"Clinton, Bill",Democratic,IL
+1992,Indiana,848420,"Clinton, Bill",Democratic,IN
+1992,Iowa,586353,"Clinton, Bill",Democratic,IA
+1992,Kansas,390434,"Clinton, Bill",Democratic,KS
+1992,Kentucky,665104,"Clinton, Bill",Democratic,KY
+1992,Louisiana,815971,"Clinton, Bill",Democratic,LA
+1992,Maine,263420,"Clinton, Bill",Democratic,ME
+1992,Maryland,988571,"Clinton, Bill",Democratic,MD
+1992,Massachusetts,1318662,"Clinton, Bill",Democratic,MA
+1992,Michigan,1871182,"Clinton, Bill",Democratic,MI
+1992,Minnesota,1020997,"Clinton, Bill",Democratic,MN
+1992,Mississippi,400258,"Clinton, Bill",Democratic,MS
+1992,Missouri,1053873,"Clinton, Bill",Democratic,MO
+1992,Montana,154507,"Clinton, Bill",Democratic,MT
+1992,Nebraska,217344,"Clinton, Bill",Democratic,NE
+1992,Nevada,189148,"Clinton, Bill",Democratic,NV
+1992,New Hampshire,209040,"Clinton, Bill",Democratic,NH
+1992,New Jersey,1436206,"Clinton, Bill",Democratic,NJ
+1992,New Mexico,261617,"Clinton, Bill",Democratic,NM
+1992,New York,3444450,"Clinton, Bill",Democratic,NY
+1992,North Carolina,1114042,"Clinton, Bill",Democratic,NC
+1992,North Dakota,99168,"Clinton, Bill",Democratic,ND
+1992,Ohio,1984942,"Clinton, Bill",Democratic,OH
+1992,Oklahoma,473066,"Clinton, Bill",Democratic,OK
+1992,Oregon,621314,"Clinton, Bill",Democratic,OR
+1992,Pennsylvania,2239164,"Clinton, Bill",Democratic,PA
+1992,Rhode Island,213299,"Clinton, Bill",Democratic,RI
+1992,South Carolina,479514,"Clinton, Bill",Democratic,SC
+1992,South Dakota,124888,"Clinton, Bill",Democratic,SD
+1992,Tennessee,933521,"Clinton, Bill",Democratic,TN
+1992,Texas,2281815,"Clinton, Bill",Democratic,TX
+1992,Utah,183429,"Clinton, Bill",Democratic,UT
+1992,Vermont,133592,"Clinton, Bill",Democratic,VT
+1992,Virginia,1038650,"Clinton, Bill",Democratic,VA
+1992,Washington,993037,"Clinton, Bill",Democratic,WA
+1992,West Virginia,331001,"Clinton, Bill",Democratic,WV
+1992,Wisconsin,1041066,"Clinton, Bill",Democratic,WI
+1992,Wyoming,68160,"Clinton, Bill",Democratic,WY
+1992,Washington DC,192619,"Clinton, Bill",Democratic,DC
+1992,Alabama,804283,"Bush, George H.W.",Republican,AL
+1992,Alaska,102000,"Bush, George H.W.",Republican,AK
+1992,Arizona,572086,"Bush, George H.W.",Republican,AZ
+1992,Arkansas,337324,"Bush, George H.W.",Republican,AR
+1992,California,3630574,"Bush, George H.W.",Republican,CA
+1992,Colorado,562850,"Bush, George H.W.",Republican,CO
+1992,Connecticut,578313,"Bush, George H.W.",Republican,CT
+1992,Delaware,102313,"Bush, George H.W.",Republican,DE
+1992,Florida,2173310,"Bush, George H.W.",Republican,FL
+1992,Georgia,995252,"Bush, George H.W.",Republican,GA
+1992,Hawaii,136822,"Bush, George H.W.",Republican,HI
+1992,Idaho,202645,"Bush, George H.W.",Republican,ID
+1992,Illinois,1734096,"Bush, George H.W.",Republican,IL
+1992,Indiana,989375,"Bush, George H.W.",Republican,IN
+1992,Iowa,504891,"Bush, George H.W.",Republican,IA
+1992,Kansas,449951,"Bush, George H.W.",Republican,KS
+1992,Kentucky,617178,"Bush, George H.W.",Republican,KY
+1992,Louisiana,733386,"Bush, George H.W.",Republican,LA
+1992,Maine,206504,"Bush, George H.W.",Republican,ME
+1992,Maryland,707094,"Bush, George H.W.",Republican,MD
+1992,Massachusetts,805049,"Bush, George H.W.",Republican,MA
+1992,Michigan,1554940,"Bush, George H.W.",Republican,MI
+1992,Minnesota,747841,"Bush, George H.W.",Republican,MN
+1992,Mississippi,487793,"Bush, George H.W.",Republican,MS
+1992,Missouri,811159,"Bush, George H.W.",Republican,MO
+1992,Montana,144207,"Bush, George H.W.",Republican,MT
+1992,Nebraska,344346,"Bush, George H.W.",Republican,NE
+1992,Nevada,175828,"Bush, George H.W.",Republican,NV
+1992,New Hampshire,202484,"Bush, George H.W.",Republican,NH
+1992,New Jersey,1356865,"Bush, George H.W.",Republican,NJ
+1992,New Mexico,212824,"Bush, George H.W.",Republican,NM
+1992,New York,2346649,"Bush, George H.W.",Republican,NY
+1992,North Carolina,1134661,"Bush, George H.W.",Republican,NC
+1992,North Dakota,136244,"Bush, George H.W.",Republican,ND
+1992,Ohio,1894310,"Bush, George H.W.",Republican,OH
+1992,Oklahoma,592929,"Bush, George H.W.",Republican,OK
+1992,Oregon,475757,"Bush, George H.W.",Republican,OR
+1992,Pennsylvania,1791841,"Bush, George H.W.",Republican,PA
+1992,Rhode Island,131601,"Bush, George H.W.",Republican,RI
+1992,South Carolina,577507,"Bush, George H.W.",Republican,SC
+1992,South Dakota,136718,"Bush, George H.W.",Republican,SD
+1992,Tennessee,841300,"Bush, George H.W.",Republican,TN
+1992,Texas,2496071,"Bush, George H.W.",Republican,TX
+1992,Utah,322632,"Bush, George H.W.",Republican,UT
+1992,Vermont,88122,"Bush, George H.W.",Republican,VT
+1992,Virginia,1150517,"Bush, George H.W.",Republican,VA
+1992,Washington,731234,"Bush, George H.W.",Republican,WA
+1992,West Virginia,241974,"Bush, George H.W.",Republican,WV
+1992,Wisconsin,930855,"Bush, George H.W.",Republican,WI
+1992,Wyoming,79347,"Bush, George H.W.",Republican,WY
+1992,Washington DC,20698,"Bush, George H.W.",Republican,DC
+1992,Alabama,183109,"Perot, Ross",Independent,AL
+1992,Alaska,73481,"Perot, Ross",Independent,AK
+1992,Arizona,353741,"Perot, Ross",Independent,AZ
+1992,Arkansas,99132,"Perot, Ross",Independent,AR
+1992,California,2296006,"Perot, Ross",Independent,CA
+1992,Colorado,366010,"Perot, Ross",Independent,CO
+1992,Connecticut,348771,"Perot, Ross",Independent,CT
+1992,Delaware,59213,"Perot, Ross",Independent,DE
+1992,Florida,1053067,"Perot, Ross",Independent,FL
+1992,Georgia,309657,"Perot, Ross",Independent,GA
+1992,Hawaii,53003,"Perot, Ross",Independent,HI
+1992,Idaho,130395,"Perot, Ross",Independent,ID
+1992,Illinois,840515,"Perot, Ross",Independent,IL
+1992,Indiana,455934,"Perot, Ross",Independent,IN
+1992,Iowa,253468,"Perot, Ross",Independent,IA
+1992,Kansas,312358,"Perot, Ross",Independent,KS
+1992,Kentucky,203944,"Perot, Ross",Independent,KY
+1992,Louisiana,211478,"Perot, Ross",Independent,LA
+1992,Maine,206820,"Perot, Ross",Independent,ME
+1992,Maryland,281414,"Perot, Ross",Independent,MD
+1992,Massachusetts,632312,"Perot, Ross",Independent,MA
+1992,Michigan,824813,"Perot, Ross",Independent,MI
+1992,Minnesota,562506,"Perot, Ross",Independent,MN
+1992,Mississippi,85626,"Perot, Ross",Independent,MS
+1992,Missouri,518741,"Perot, Ross",Independent,MO
+1992,Montana,107225,"Perot, Ross",Independent,MT
+1992,Nebraska,174687,"Perot, Ross",Independent,NE
+1992,Nevada,132580,"Perot, Ross",Independent,NV
+1992,New Hampshire,121337,"Perot, Ross",Independent,NH
+1992,New Jersey,521829,"Perot, Ross",Independent,NJ
+1992,New Mexico,91895,"Perot, Ross",Independent,NM
+1992,New York,1090721,"Perot, Ross",Independent,NY
+1992,North Carolina,357864,"Perot, Ross",Independent,NC
+1992,North Dakota,71084,"Perot, Ross",Independent,ND
+1992,Ohio,1036426,"Perot, Ross",Independent,OH
+1992,Oklahoma,319878,"Perot, Ross",Independent,OK
+1992,Oregon,354091,"Perot, Ross",Independent,OR
+1992,Pennsylvania,902667,"Perot, Ross",Independent,PA
+1992,Rhode Island,105045,"Perot, Ross",Independent,RI
+1992,South Carolina,138872,"Perot, Ross",Independent,SC
+1992,South Dakota,73295,"Perot, Ross",Independent,SD
+1992,Tennessee,199968,"Perot, Ross",Independent,TN
+1992,Texas,1354781,"Perot, Ross",Independent,TX
+1992,Utah,203400,"Perot, Ross",Independent,UT
+1992,Vermont,65991,"Perot, Ross",Independent,VT
+1992,Virginia,348639,"Perot, Ross",Independent,VA
+1992,Washington,541780,"Perot, Ross",Independent,WA
+1992,West Virginia,108829,"Perot, Ross",Independent,WV
+1992,Wisconsin,544479,"Perot, Ross",Independent,WI
+1992,Wyoming,51263,"Perot, Ross",Independent,WY
+1992,Washington DC,9681,"Perot, Ross",Independent,DC
+1988,Alabama,549506,"Dukakis, Michael",Democratic,AL
+1988,Alaska,72584,"Dukakis, Michael",Democratic,AK
+1988,Arizona,454029,"Dukakis, Michael",Democratic,AZ
+1988,Arkansas,349237,"Dukakis, Michael",Democratic,AR
+1988,California,4702233,"Dukakis, Michael",Democratic,CA
+1988,Colorado,621453,"Dukakis, Michael",Democratic,CO
+1988,Connecticut,676584,"Dukakis, Michael",Democratic,CT
+1988,Delaware,108647,"Dukakis, Michael",Democratic,DE
+1988,Florida,1656701,"Dukakis, Michael",Democratic,FL
+1988,Georgia,714792,"Dukakis, Michael",Democratic,GA
+1988,Hawaii,192364,"Dukakis, Michael",Democratic,HI
+1988,Idaho,147272,"Dukakis, Michael",Democratic,ID
+1988,Illinois,2215940,"Dukakis, Michael",Democratic,IL
+1988,Indiana,860643,"Dukakis, Michael",Democratic,IN
+1988,Iowa,670557,"Dukakis, Michael",Democratic,IA
+1988,Kansas,422636,"Dukakis, Michael",Democratic,KS
+1988,Kentucky,580368,"Dukakis, Michael",Democratic,KY
+1988,Louisiana,717460,"Dukakis, Michael",Democratic,LA
+1988,Maine,243569,"Dukakis, Michael",Democratic,ME
+1988,Maryland,826304,"Dukakis, Michael",Democratic,MD
+1988,Massachusetts,1401406,"Dukakis, Michael",Democratic,MA
+1988,Michigan,1675783,"Dukakis, Michael",Democratic,MI
+1988,Minnesota,1109471,"Dukakis, Michael",Democratic,MN
+1988,Mississippi,363921,"Dukakis, Michael",Democratic,MS
+1988,Missouri,1001619,"Dukakis, Michael",Democratic,MO
+1988,Montana,168936,"Dukakis, Michael",Democratic,MT
+1988,Nebraska,259646,"Dukakis, Michael",Democratic,NE
+1988,Nevada,132738,"Dukakis, Michael",Democratic,NV
+1988,New Hampshire,163696,"Dukakis, Michael",Democratic,NH
+1988,New Jersey,1320352,"Dukakis, Michael",Democratic,NJ
+1988,New Mexico,244497,"Dukakis, Michael",Democratic,NM
+1988,New York,3347882,"Dukakis, Michael",Democratic,NY
+1988,North Carolina,890167,"Dukakis, Michael",Democratic,NC
+1988,North Dakota,127739,"Dukakis, Michael",Democratic,ND
+1988,Ohio,1939629,"Dukakis, Michael",Democratic,OH
+1988,Oklahoma,483423,"Dukakis, Michael",Democratic,OK
+1988,Oregon,616206,"Dukakis, Michael",Democratic,OR
+1988,Pennsylvania,2194944,"Dukakis, Michael",Democratic,PA
+1988,Rhode Island,225123,"Dukakis, Michael",Democratic,RI
+1988,South Carolina,370554,"Dukakis, Michael",Democratic,SC
+1988,South Dakota,145560,"Dukakis, Michael",Democratic,SD
+1988,Tennessee,679794,"Dukakis, Michael",Democratic,TN
+1988,Texas,2352748,"Dukakis, Michael",Democratic,TX
+1988,Utah,207343,"Dukakis, Michael",Democratic,UT
+1988,Vermont,115775,"Dukakis, Michael",Democratic,VT
+1988,Virginia,859799,"Dukakis, Michael",Democratic,VA
+1988,Washington,933516,"Dukakis, Michael",Democratic,WA
+1988,West Virginia,341016,"Dukakis, Michael",Democratic,WV
+1988,Wisconsin,1126794,"Dukakis, Michael",Democratic,WI
+1988,Wyoming,67113,"Dukakis, Michael",Democratic,WY
+1988,Washington DC,159407,"Dukakis, Michael",Democratic,DC
+1988,Alabama,815576,"Bush, George H.W.",Republican,AL
+1988,Alaska,119251,"Bush, George H.W.",Republican,AK
+1988,Arizona,702541,"Bush, George H.W.",Republican,AZ
+1988,Arkansas,466578,"Bush, George H.W.",Republican,AR
+1988,California,5054917,"Bush, George H.W.",Republican,CA
+1988,Colorado,728177,"Bush, George H.W.",Republican,CO
+1988,Connecticut,750241,"Bush, George H.W.",Republican,CT
+1988,Delaware,139639,"Bush, George H.W.",Republican,DE
+1988,Florida,2618885,"Bush, George H.W.",Republican,FL
+1988,Georgia,1081331,"Bush, George H.W.",Republican,GA
+1988,Hawaii,158625,"Bush, George H.W.",Republican,HI
+1988,Idaho,253881,"Bush, George H.W.",Republican,ID
+1988,Illinois,2310939,"Bush, George H.W.",Republican,IL
+1988,Indiana,1297763,"Bush, George H.W.",Republican,IN
+1988,Iowa,545355,"Bush, George H.W.",Republican,IA
+1988,Kansas,554049,"Bush, George H.W.",Republican,KS
+1988,Kentucky,734281,"Bush, George H.W.",Republican,KY
+1988,Louisiana,883702,"Bush, George H.W.",Republican,LA
+1988,Maine,307131,"Bush, George H.W.",Republican,ME
+1988,Maryland,876167,"Bush, George H.W.",Republican,MD
+1988,Massachusetts,1194644,"Bush, George H.W.",Republican,MA
+1988,Michigan,1965486,"Bush, George H.W.",Republican,MI
+1988,Minnesota,962337,"Bush, George H.W.",Republican,MN
+1988,Mississippi,557890,"Bush, George H.W.",Republican,MS
+1988,Missouri,1084953,"Bush, George H.W.",Republican,MO
+1988,Montana,190412,"Bush, George H.W.",Republican,MT
+1988,Nebraska,398447,"Bush, George H.W.",Republican,NE
+1988,Nevada,206040,"Bush, George H.W.",Republican,NV
+1988,New Hampshire,281537,"Bush, George H.W.",Republican,NH
+1988,New Jersey,1743192,"Bush, George H.W.",Republican,NJ
+1988,New Mexico,270341,"Bush, George H.W.",Republican,NM
+1988,New York,3081871,"Bush, George H.W.",Republican,NY
+1988,North Carolina,1237258,"Bush, George H.W.",Republican,NC
+1988,North Dakota,166559,"Bush, George H.W.",Republican,ND
+1988,Ohio,2416549,"Bush, George H.W.",Republican,OH
+1988,Oklahoma,678367,"Bush, George H.W.",Republican,OK
+1988,Oregon,560126,"Bush, George H.W.",Republican,OR
+1988,Pennsylvania,2300087,"Bush, George H.W.",Republican,PA
+1988,Rhode Island,177761,"Bush, George H.W.",Republican,RI
+1988,South Carolina,606443,"Bush, George H.W.",Republican,SC
+1988,South Dakota,165415,"Bush, George H.W.",Republican,SD
+1988,Tennessee,947233,"Bush, George H.W.",Republican,TN
+1988,Texas,3036829,"Bush, George H.W.",Republican,TX
+1988,Utah,428442,"Bush, George H.W.",Republican,UT
+1988,Vermont,124331,"Bush, George H.W.",Republican,VT
+1988,Virginia,1309162,"Bush, George H.W.",Republican,VA
+1988,Washington,903835,"Bush, George H.W.",Republican,WA
+1988,West Virginia,310065,"Bush, George H.W.",Republican,WV
+1988,Wisconsin,1047499,"Bush, George H.W.",Republican,WI
+1988,Wyoming,106867,"Bush, George H.W.",Republican,WY
+1988,Washington DC,27590,"Bush, George H.W.",Republican,DC
+1984,Alabama,551899,"Mondale, Walter",Democratic,AL
+1984,Alaska,62007,"Mondale, Walter",Democratic,AK
+1984,Arizona,333854,"Mondale, Walter",Democratic,AZ
+1984,Arkansas,338646,"Mondale, Walter",Democratic,AR
+1984,California,3922519,"Mondale, Walter",Democratic,CA
+1984,Colorado,454974,"Mondale, Walter",Democratic,CO
+1984,Connecticut,569597,"Mondale, Walter",Democratic,CT
+1984,Delaware,101656,"Mondale, Walter",Democratic,DE
+1984,Florida,1448816,"Mondale, Walter",Democratic,FL
+1984,Georgia,706628,"Mondale, Walter",Democratic,GA
+1984,Hawaii,147154,"Mondale, Walter",Democratic,HI
+1984,Idaho,108510,"Mondale, Walter",Democratic,ID
+1984,Illinois,2086499,"Mondale, Walter",Democratic,IL
+1984,Indiana,841481,"Mondale, Walter",Democratic,IN
+1984,Iowa,605620,"Mondale, Walter",Democratic,IA
+1984,Kansas,333149,"Mondale, Walter",Democratic,KS
+1984,Kentucky,539589,"Mondale, Walter",Democratic,KY
+1984,Louisiana,651586,"Mondale, Walter",Democratic,LA
+1984,Maine,214515,"Mondale, Walter",Democratic,ME
+1984,Maryland,787935,"Mondale, Walter",Democratic,MD
+1984,Massachusetts,1239606,"Mondale, Walter",Democratic,MA
+1984,Michigan,1529638,"Mondale, Walter",Democratic,MI
+1984,Minnesota,1036364,"Mondale, Walter",Democratic,MN
+1984,Mississippi,352192,"Mondale, Walter",Democratic,MS
+1984,Missouri,848583,"Mondale, Walter",Democratic,MO
+1984,Montana,146742,"Mondale, Walter",Democratic,MT
+1984,Nebraska,187866,"Mondale, Walter",Democratic,NE
+1984,Nevada,91655,"Mondale, Walter",Democratic,NV
+1984,New Hampshire,120395,"Mondale, Walter",Democratic,NH
+1984,New Jersey,1261323,"Mondale, Walter",Democratic,NJ
+1984,New Mexico,201769,"Mondale, Walter",Democratic,NM
+1984,New York,3119609,"Mondale, Walter",Democratic,NY
+1984,North Carolina,824287,"Mondale, Walter",Democratic,NC
+1984,North Dakota,104429,"Mondale, Walter",Democratic,ND
+1984,Ohio,1825440,"Mondale, Walter",Democratic,OH
+1984,Oklahoma,385080,"Mondale, Walter",Democratic,OK
+1984,Oregon,536479,"Mondale, Walter",Democratic,OR
+1984,Pennsylvania,2228131,"Mondale, Walter",Democratic,PA
+1984,Rhode Island,197106,"Mondale, Walter",Democratic,RI
+1984,South Carolina,344470,"Mondale, Walter",Democratic,SC
+1984,South Dakota,116113,"Mondale, Walter",Democratic,SD
+1984,Tennessee,711714,"Mondale, Walter",Democratic,TN
+1984,Texas,1949276,"Mondale, Walter",Democratic,TX
+1984,Utah,155369,"Mondale, Walter",Democratic,UT
+1984,Vermont,95730,"Mondale, Walter",Democratic,VT
+1984,Virginia,796250,"Mondale, Walter",Democratic,VA
+1984,Washington,807352,"Mondale, Walter",Democratic,WA
+1984,West Virginia,328125,"Mondale, Walter",Democratic,WV
+1984,Wisconsin,995847,"Mondale, Walter",Democratic,WI
+1984,Wyoming,53370,"Mondale, Walter",Democratic,WY
+1984,Washington DC,180408,"Mondale, Walter",Democratic,DC
+1984,Alabama,872849,"Reagan, Ronald",Republican,AL
+1984,Alaska,138377,"Reagan, Ronald",Republican,AK
+1984,Arizona,681416,"Reagan, Ronald",Republican,AZ
+1984,Arkansas,534774,"Reagan, Ronald",Republican,AR
+1984,California,5467009,"Reagan, Ronald",Republican,CA
+1984,Colorado,821818,"Reagan, Ronald",Republican,CO
+1984,Connecticut,890877,"Reagan, Ronald",Republican,CT
+1984,Delaware,152190,"Reagan, Ronald",Republican,DE
+1984,Florida,2730350,"Reagan, Ronald",Republican,FL
+1984,Georgia,1068722,"Reagan, Ronald",Republican,GA
+1984,Hawaii,185050,"Reagan, Ronald",Republican,HI
+1984,Idaho,297523,"Reagan, Ronald",Republican,ID
+1984,Illinois,2707103,"Reagan, Ronald",Republican,IL
+1984,Indiana,1377230,"Reagan, Ronald",Republican,IN
+1984,Iowa,703088,"Reagan, Ronald",Republican,IA
+1984,Kansas,677296,"Reagan, Ronald",Republican,KS
+1984,Kentucky,822782,"Reagan, Ronald",Republican,KY
+1984,Louisiana,1037299,"Reagan, Ronald",Republican,LA
+1984,Maine,336500,"Reagan, Ronald",Republican,ME
+1984,Maryland,879918,"Reagan, Ronald",Republican,MD
+1984,Massachusetts,1310936,"Reagan, Ronald",Republican,MA
+1984,Michigan,2251571,"Reagan, Ronald",Republican,MI
+1984,Minnesota,1032603,"Reagan, Ronald",Republican,MN
+1984,Mississippi,581477,"Reagan, Ronald",Republican,MS
+1984,Missouri,1274188,"Reagan, Ronald",Republican,MO
+1984,Montana,232450,"Reagan, Ronald",Republican,MT
+1984,Nebraska,460054,"Reagan, Ronald",Republican,NE
+1984,Nevada,188770,"Reagan, Ronald",Republican,NV
+1984,New Hampshire,267051,"Reagan, Ronald",Republican,NH
+1984,New Jersey,1933630,"Reagan, Ronald",Republican,NJ
+1984,New Mexico,307101,"Reagan, Ronald",Republican,NM
+1984,New York,3664763,"Reagan, Ronald",Republican,NY
+1984,North Carolina,1346481,"Reagan, Ronald",Republican,NC
+1984,North Dakota,200336,"Reagan, Ronald",Republican,ND
+1984,Ohio,2678560,"Reagan, Ronald",Republican,OH
+1984,Oklahoma,861530,"Reagan, Ronald",Republican,OK
+1984,Oregon,685700,"Reagan, Ronald",Republican,OR
+1984,Pennsylvania,2584323,"Reagan, Ronald",Republican,PA
+1984,Rhode Island,212080,"Reagan, Ronald",Republican,RI
+1984,South Carolina,615539,"Reagan, Ronald",Republican,SC
+1984,South Dakota,200267,"Reagan, Ronald",Republican,SD
+1984,Tennessee,990212,"Reagan, Ronald",Republican,TN
+1984,Texas,3433428,"Reagan, Ronald",Republican,TX
+1984,Utah,469105,"Reagan, Ronald",Republican,UT
+1984,Vermont,135865,"Reagan, Ronald",Republican,VT
+1984,Virginia,1337078,"Reagan, Ronald",Republican,VA
+1984,Washington,1051670,"Reagan, Ronald",Republican,WA
+1984,West Virginia,405483,"Reagan, Ronald",Republican,WV
+1984,Wisconsin,1198800,"Reagan, Ronald",Republican,WI
+1984,Wyoming,133241,"Reagan, Ronald",Republican,WY
+1984,Washington DC,29009,"Reagan, Ronald",Republican,DC
+1980,Alabama,636730,"Carter, Jimmy",Democratic,AL
+1980,Alaska,41842,"Carter, Jimmy",Democratic,AK
+1980,Arizona,246843,"Carter, Jimmy",Democratic,AZ
+1980,Arkansas,398041,"Carter, Jimmy",Democratic,AR
+1980,California,3083661,"Carter, Jimmy",Democratic,CA
+1980,Colorado,367973,"Carter, Jimmy",Democratic,CO
+1980,Connecticut,541732,"Carter, Jimmy",Democratic,CT
+1980,Delaware,105754,"Carter, Jimmy",Democratic,DE
+1980,Florida,1419475,"Carter, Jimmy",Democratic,FL
+1980,Georgia,890733,"Carter, Jimmy",Democratic,GA
+1980,Hawaii,135879,"Carter, Jimmy",Democratic,HI
+1980,Idaho,110192,"Carter, Jimmy",Democratic,ID
+1980,Illinois,1981413,"Carter, Jimmy",Democratic,IL
+1980,Indiana,844197,"Carter, Jimmy",Democratic,IN
+1980,Iowa,508672,"Carter, Jimmy",Democratic,IA
+1980,Kansas,326150,"Carter, Jimmy",Democratic,KS
+1980,Kentucky,616417,"Carter, Jimmy",Democratic,KY
+1980,Louisiana,708453,"Carter, Jimmy",Democratic,LA
+1980,Maine,220974,"Carter, Jimmy",Democratic,ME
+1980,Maryland,726161,"Carter, Jimmy",Democratic,MD
+1980,Massachusetts,1053802,"Carter, Jimmy",Democratic,MA
+1980,Michigan,1661532,"Carter, Jimmy",Democratic,MI
+1980,Minnesota,954174,"Carter, Jimmy",Democratic,MN
+1980,Mississippi,429281,"Carter, Jimmy",Democratic,MS
+1980,Missouri,931182,"Carter, Jimmy",Democratic,MO
+1980,Montana,118032,"Carter, Jimmy",Democratic,MT
+1980,Nebraska,166851,"Carter, Jimmy",Democratic,NE
+1980,Nevada,66666,"Carter, Jimmy",Democratic,NV
+1980,New Hampshire,108864,"Carter, Jimmy",Democratic,NH
+1980,New Jersey,1147364,"Carter, Jimmy",Democratic,NJ
+1980,New Mexico,167826,"Carter, Jimmy",Democratic,NM
+1980,New York,2728372,"Carter, Jimmy",Democratic,NY
+1980,North Carolina,875635,"Carter, Jimmy",Democratic,NC
+1980,North Dakota,79189,"Carter, Jimmy",Democratic,ND
+1980,Ohio,1752414,"Carter, Jimmy",Democratic,OH
+1980,Oklahoma,402026,"Carter, Jimmy",Democratic,OK
+1980,Oregon,456890,"Carter, Jimmy",Democratic,OR
+1980,Pennsylvania,1937540,"Carter, Jimmy",Democratic,PA
+1980,Rhode Island,198342,"Carter, Jimmy",Democratic,RI
+1980,South Carolina,427560,"Carter, Jimmy",Democratic,SC
+1980,South Dakota,103855,"Carter, Jimmy",Democratic,SD
+1980,Tennessee,783051,"Carter, Jimmy",Democratic,TN
+1980,Texas,1881147,"Carter, Jimmy",Democratic,TX
+1980,Utah,124266,"Carter, Jimmy",Democratic,UT
+1980,Vermont,81891,"Carter, Jimmy",Democratic,VT
+1980,Virginia,752174,"Carter, Jimmy",Democratic,VA
+1980,Washington,650193,"Carter, Jimmy",Democratic,WA
+1980,West Virginia,367462,"Carter, Jimmy",Democratic,WV
+1980,Wisconsin,981584,"Carter, Jimmy",Democratic,WI
+1980,Wyoming,49427,"Carter, Jimmy",Democratic,WY
+1980,Washington DC,130231,"Carter, Jimmy",Democratic,DC
+1980,Alabama,654192,"Reagan, Ronald",Republican,AL
+1980,Alaska,86112,"Reagan, Ronald",Republican,AK
+1980,Arizona,529688,"Reagan, Ronald",Republican,AZ
+1980,Arkansas,403164,"Reagan, Ronald",Republican,AR
+1980,California,4524858,"Reagan, Ronald",Republican,CA
+1980,Colorado,652264,"Reagan, Ronald",Republican,CO
+1980,Connecticut,677210,"Reagan, Ronald",Republican,CT
+1980,Delaware,111252,"Reagan, Ronald",Republican,DE
+1980,Florida,2046951,"Reagan, Ronald",Republican,FL
+1980,Georgia,654168,"Reagan, Ronald",Republican,GA
+1980,Hawaii,130112,"Reagan, Ronald",Republican,HI
+1980,Idaho,290699,"Reagan, Ronald",Republican,ID
+1980,Illinois,2358049,"Reagan, Ronald",Republican,IL
+1980,Indiana,1255656,"Reagan, Ronald",Republican,IN
+1980,Iowa,676026,"Reagan, Ronald",Republican,IA
+1980,Kansas,566812,"Reagan, Ronald",Republican,KS
+1980,Kentucky,635274,"Reagan, Ronald",Republican,KY
+1980,Louisiana,792853,"Reagan, Ronald",Republican,LA
+1980,Maine,238522,"Reagan, Ronald",Republican,ME
+1980,Maryland,680606,"Reagan, Ronald",Republican,MD
+1980,Massachusetts,1057631,"Reagan, Ronald",Republican,MA
+1980,Michigan,1915225,"Reagan, Ronald",Republican,MI
+1980,Minnesota,873241,"Reagan, Ronald",Republican,MN
+1980,Mississippi,441089,"Reagan, Ronald",Republican,MS
+1980,Missouri,1074181,"Reagan, Ronald",Republican,MO
+1980,Montana,206814,"Reagan, Ronald",Republican,MT
+1980,Nebraska,419937,"Reagan, Ronald",Republican,NE
+1980,Nevada,155017,"Reagan, Ronald",Republican,NV
+1980,New Hampshire,221705,"Reagan, Ronald",Republican,NH
+1980,New Jersey,1546557,"Reagan, Ronald",Republican,NJ
+1980,New Mexico,250779,"Reagan, Ronald",Republican,NM
+1980,New York,2893831,"Reagan, Ronald",Republican,NY
+1980,North Carolina,915018,"Reagan, Ronald",Republican,NC
+1980,North Dakota,193695,"Reagan, Ronald",Republican,ND
+1980,Ohio,2206545,"Reagan, Ronald",Republican,OH
+1980,Oklahoma,695570,"Reagan, Ronald",Republican,OK
+1980,Oregon,571044,"Reagan, Ronald",Republican,OR
+1980,Pennsylvania,2261872,"Reagan, Ronald",Republican,PA
+1980,Rhode Island,154793,"Reagan, Ronald",Republican,RI
+1980,South Carolina,441207,"Reagan, Ronald",Republican,SC
+1980,South Dakota,198343,"Reagan, Ronald",Republican,SD
+1980,Tennessee,787761,"Reagan, Ronald",Republican,TN
+1980,Texas,2510705,"Reagan, Ronald",Republican,TX
+1980,Utah,439687,"Reagan, Ronald",Republican,UT
+1980,Vermont,94598,"Reagan, Ronald",Republican,VT
+1980,Virginia,989609,"Reagan, Ronald",Republican,VA
+1980,Washington,865244,"Reagan, Ronald",Republican,WA
+1980,West Virginia,334206,"Reagan, Ronald",Republican,WV
+1980,Wisconsin,1088845,"Reagan, Ronald",Republican,WI
+1980,Wyoming,110700,"Reagan, Ronald",Republican,WY
+1980,Washington DC,23313,"Reagan, Ronald",Republican,DC
+1980,Alabama,16481,"Anderson, John",Independent,AL
+1980,Alaska,11155,"Anderson, John",Independent,AK
+1980,Arizona,76952,"Anderson, John",Independent,AZ
+1980,Arkansas,22468,"Anderson, John",Independent,AR
+1980,California,739833,"Anderson, John",Independent,CA
+1980,Colorado,130633,"Anderson, John",Independent,CO
+1980,Connecticut,171807,"Anderson, John",Independent,CT
+1980,Delaware,16288,"Anderson, John",Independent,DE
+1980,Florida,189692,"Anderson, John",Independent,FL
+1980,Georgia,36055,"Anderson, John",Independent,GA
+1980,Hawaii,32021,"Anderson, John",Independent,HI
+1980,Idaho,27058,"Anderson, John",Independent,ID
+1980,Illinois,346754,"Anderson, John",Independent,IL
+1980,Indiana,111639,"Anderson, John",Independent,IN
+1980,Iowa,115633,"Anderson, John",Independent,IA
+1980,Kansas,68231,"Anderson, John",Independent,KS
+1980,Kentucky,31127,"Anderson, John",Independent,KY
+1980,Louisiana,26345,"Anderson, John",Independent,LA
+1980,Maine,53327,"Anderson, John",Independent,ME
+1980,Maryland,119537,"Anderson, John",Independent,MD
+1980,Massachusetts,382539,"Anderson, John",Independent,MA
+1980,Michigan,275223,"Anderson, John",Independent,MI
+1980,Minnesota,174990,"Anderson, John",Independent,MN
+1980,Mississippi,12036,"Anderson, John",Independent,MS
+1980,Missouri,77920,"Anderson, John",Independent,MO
+1980,Montana,29281,"Anderson, John",Independent,MT
+1980,Nebraska,44993,"Anderson, John",Independent,NE
+1980,Nevada,17651,"Anderson, John",Independent,NV
+1980,New Hampshire,49693,"Anderson, John",Independent,NH
+1980,New Jersey,234632,"Anderson, John",Independent,NJ
+1980,New Mexico,29459,"Anderson, John",Independent,NM
+1980,New York,467801,"Anderson, John",Independent,NY
+1980,North Carolina,52800,"Anderson, John",Independent,NC
+1980,North Dakota,23640,"Anderson, John",Independent,ND
+1980,Ohio,254472,"Anderson, John",Independent,OH
+1980,Oklahoma,38284,"Anderson, John",Independent,OK
+1980,Oregon,112389,"Anderson, John",Independent,OR
+1980,Pennsylvania,292921,"Anderson, John",Independent,PA
+1980,Rhode Island,59819,"Anderson, John",Independent,RI
+1980,South Carolina,14150,"Anderson, John",Independent,SC
+1980,South Dakota,21431,"Anderson, John",Independent,SD
+1980,Tennessee,35991,"Anderson, John",Independent,TN
+1980,Texas,111613,"Anderson, John",Independent,TX
+1980,Utah,30284,"Anderson, John",Independent,UT
+1980,Vermont,31760,"Anderson, John",Independent,VT
+1980,Virginia,95418,"Anderson, John",Independent,VA
+1980,Washington,185073,"Anderson, John",Independent,WA
+1980,West Virginia,31691,"Anderson, John",Independent,WV
+1980,Wisconsin,160657,"Anderson, John",Independent,WI
+1980,Wyoming,12072,"Anderson, John",Independent,WY
+1980,Washington DC,16131,"Anderson, John",Independent,DC
+1976,Alabama,659170,"Carter, Jimmy",Democratic,AL
+1976,Alaska,44058,"Carter, Jimmy",Democratic,AK
+1976,Arizona,295602,"Carter, Jimmy",Democratic,AZ
+1976,Arkansas,499614,"Carter, Jimmy",Democratic,AR
+1976,California,3742284,"Carter, Jimmy",Democratic,CA
+1976,Colorado,460353,"Carter, Jimmy",Democratic,CO
+1976,Connecticut,647895,"Carter, Jimmy",Democratic,CT
+1976,Delaware,122596,"Carter, Jimmy",Democratic,DE
+1976,Florida,1636000,"Carter, Jimmy",Democratic,FL
+1976,Georgia,979409,"Carter, Jimmy",Democratic,GA
+1976,Hawaii,147375,"Carter, Jimmy",Democratic,HI
+1976,Idaho,126549,"Carter, Jimmy",Democratic,ID
+1976,Illinois,2271295,"Carter, Jimmy",Democratic,IL
+1976,Indiana,1014714,"Carter, Jimmy",Democratic,IN
+1976,Iowa,619931,"Carter, Jimmy",Democratic,IA
+1976,Kansas,430421,"Carter, Jimmy",Democratic,KS
+1976,Kentucky,615717,"Carter, Jimmy",Democratic,KY
+1976,Louisiana,661365,"Carter, Jimmy",Democratic,LA
+1976,Maine,232279,"Carter, Jimmy",Democratic,ME
+1976,Maryland,759612,"Carter, Jimmy",Democratic,MD
+1976,Massachusetts,1429475,"Carter, Jimmy",Democratic,MA
+1976,Michigan,1696714,"Carter, Jimmy",Democratic,MI
+1976,Minnesota,1070440,"Carter, Jimmy",Democratic,MN
+1976,Mississippi,381309,"Carter, Jimmy",Democratic,MS
+1976,Missouri,998387,"Carter, Jimmy",Democratic,MO
+1976,Montana,149259,"Carter, Jimmy",Democratic,MT
+1976,Nebraska,233692,"Carter, Jimmy",Democratic,NE
+1976,Nevada,92479,"Carter, Jimmy",Democratic,NV
+1976,New Hampshire,147635,"Carter, Jimmy",Democratic,NH
+1976,New Jersey,1444653,"Carter, Jimmy",Democratic,NJ
+1976,New Mexico,201148,"Carter, Jimmy",Democratic,NM
+1976,New York,3389558,"Carter, Jimmy",Democratic,NY
+1976,North Carolina,927365,"Carter, Jimmy",Democratic,NC
+1976,North Dakota,136078,"Carter, Jimmy",Democratic,ND
+1976,Ohio,2011621,"Carter, Jimmy",Democratic,OH
+1976,Oklahoma,532442,"Carter, Jimmy",Democratic,OK
+1976,Oregon,490407,"Carter, Jimmy",Democratic,OR
+1976,Pennsylvania,2328677,"Carter, Jimmy",Democratic,PA
+1976,Rhode Island,227636,"Carter, Jimmy",Democratic,RI
+1976,South Carolina,450825,"Carter, Jimmy",Democratic,SC
+1976,South Dakota,147068,"Carter, Jimmy",Democratic,SD
+1976,Tennessee,825879,"Carter, Jimmy",Democratic,TN
+1976,Texas,2082319,"Carter, Jimmy",Democratic,TX
+1976,Utah,182110,"Carter, Jimmy",Democratic,UT
+1976,Vermont,81044,"Carter, Jimmy",Democratic,VT
+1976,Virginia,813896,"Carter, Jimmy",Democratic,VA
+1976,Washington,717323,"Carter, Jimmy",Democratic,WA
+1976,West Virginia,435914,"Carter, Jimmy",Democratic,WV
+1976,Wisconsin,1040232,"Carter, Jimmy",Democratic,WI
+1976,Wyoming,62239,"Carter, Jimmy",Democratic,WY
+1976,Washington DC,137818,"Carter, Jimmy",Democratic,DC
+1976,Alabama,504070,"Ford, Gerald",Republican,AL
+1976,Alaska,71555,"Ford, Gerald",Republican,AK
+1976,Arizona,418642,"Ford, Gerald",Republican,AZ
+1976,Arkansas,268753,"Ford, Gerald",Republican,AR
+1976,California,3882244,"Ford, Gerald",Republican,CA
+1976,Colorado,584367,"Ford, Gerald",Republican,CO
+1976,Connecticut,719261,"Ford, Gerald",Republican,CT
+1976,Delaware,109831,"Ford, Gerald",Republican,DE
+1976,Florida,1469531,"Ford, Gerald",Republican,FL
+1976,Georgia,483743,"Ford, Gerald",Republican,GA
+1976,Hawaii,140003,"Ford, Gerald",Republican,HI
+1976,Idaho,204151,"Ford, Gerald",Republican,ID
+1976,Illinois,2364269,"Ford, Gerald",Republican,IL
+1976,Indiana,1183958,"Ford, Gerald",Republican,IN
+1976,Iowa,632863,"Ford, Gerald",Republican,IA
+1976,Kansas,502752,"Ford, Gerald",Republican,KS
+1976,Kentucky,531852,"Ford, Gerald",Republican,KY
+1976,Louisiana,587446,"Ford, Gerald",Republican,LA
+1976,Maine,236320,"Ford, Gerald",Republican,ME
+1976,Maryland,672661,"Ford, Gerald",Republican,MD
+1976,Massachusetts,1030276,"Ford, Gerald",Republican,MA
+1976,Michigan,1893742,"Ford, Gerald",Republican,MI
+1976,Minnesota,819395,"Ford, Gerald",Republican,MN
+1976,Mississippi,366846,"Ford, Gerald",Republican,MS
+1976,Missouri,927443,"Ford, Gerald",Republican,MO
+1976,Montana,173703,"Ford, Gerald",Republican,MT
+1976,Nebraska,359705,"Ford, Gerald",Republican,NE
+1976,Nevada,101273,"Ford, Gerald",Republican,NV
+1976,New Hampshire,185935,"Ford, Gerald",Republican,NH
+1976,New Jersey,1509688,"Ford, Gerald",Republican,NJ
+1976,New Mexico,211419,"Ford, Gerald",Republican,NM
+1976,New York,3100791,"Ford, Gerald",Republican,NY
+1976,North Carolina,741960,"Ford, Gerald",Republican,NC
+1976,North Dakota,153470,"Ford, Gerald",Republican,ND
+1976,Ohio,2000505,"Ford, Gerald",Republican,OH
+1976,Oklahoma,545708,"Ford, Gerald",Republican,OK
+1976,Oregon,492120,"Ford, Gerald",Republican,OR
+1976,Pennsylvania,2205604,"Ford, Gerald",Republican,PA
+1976,Rhode Island,181249,"Ford, Gerald",Republican,RI
+1976,South Carolina,346140,"Ford, Gerald",Republican,SC
+1976,South Dakota,151505,"Ford, Gerald",Republican,SD
+1976,Tennessee,633969,"Ford, Gerald",Republican,TN
+1976,Texas,1953300,"Ford, Gerald",Republican,TX
+1976,Utah,337908,"Ford, Gerald",Republican,UT
+1976,Vermont,102085,"Ford, Gerald",Republican,VT
+1976,Virginia,836554,"Ford, Gerald",Republican,VA
+1976,Washington,777732,"Ford, Gerald",Republican,WA
+1976,West Virginia,314760,"Ford, Gerald",Republican,WV
+1976,Wisconsin,1004987,"Ford, Gerald",Republican,WI
+1976,Wyoming,92717,"Ford, Gerald",Republican,WY
+1976,Washington DC,27873,"Ford, Gerald",Republican,DC
+1972,Alabama,256923,"McGovern, George",Democratic,AL
+1972,Alaska,32967,"McGovern, George",Democratic,AK
+1972,Arizona,198540,"McGovern, George",Democratic,AZ
+1972,Arkansas,198899,"McGovern, George",Democratic,AR
+1972,California,3475847,"McGovern, George",Democratic,CA
+1972,Colorado,329980,"McGovern, George",Democratic,CO
+1972,Connecticut,555498,"McGovern, George",Democratic,CT
+1972,Delaware,92283,"McGovern, George",Democratic,DE
+1972,Florida,718117,"McGovern, George",Democratic,FL
+1972,Georgia,289529,"McGovern, George",Democratic,GA
+1972,Hawaii,101409,"McGovern, George",Democratic,HI
+1972,Idaho,80826,"McGovern, George",Democratic,ID
+1972,Illinois,1913472,"McGovern, George",Democratic,IL
+1972,Indiana,708568,"McGovern, George",Democratic,IN
+1972,Iowa,496206,"McGovern, George",Democratic,IA
+1972,Kansas,270287,"McGovern, George",Democratic,KS
+1972,Kentucky,371159,"McGovern, George",Democratic,KY
+1972,Louisiana,298142,"McGovern, George",Democratic,LA
+1972,Maine,160584,"McGovern, George",Democratic,ME
+1972,Maryland,505781,"McGovern, George",Democratic,MD
+1972,Massachusetts,1332540,"McGovern, George",Democratic,MA
+1972,Michigan,1459435,"McGovern, George",Democratic,MI
+1972,Minnesota,802346,"McGovern, George",Democratic,MN
+1972,Mississippi,126782,"McGovern, George",Democratic,MS
+1972,Missouri,698531,"McGovern, George",Democratic,MO
+1972,Montana,120197,"McGovern, George",Democratic,MT
+1972,Nebraska,169991,"McGovern, George",Democratic,NE
+1972,Nevada,66016,"McGovern, George",Democratic,NV
+1972,New Hampshire,116435,"McGovern, George",Democratic,NH
+1972,New Jersey,1102211,"McGovern, George",Democratic,NJ
+1972,New Mexico,141084,"McGovern, George",Democratic,NM
+1972,New York,2951084,"McGovern, George",Democratic,NY
+1972,North Carolina,438705,"McGovern, George",Democratic,NC
+1972,North Dakota,100384,"McGovern, George",Democratic,ND
+1972,Ohio,1558889,"McGovern, George",Democratic,OH
+1972,Oklahoma,247147,"McGovern, George",Democratic,OK
+1972,Oregon,392760,"McGovern, George",Democratic,OR
+1972,Pennsylvania,1796951,"McGovern, George",Democratic,PA
+1972,Rhode Island,194645,"McGovern, George",Democratic,RI
+1972,South Carolina,189270,"McGovern, George",Democratic,SC
+1972,South Dakota,139945,"McGovern, George",Democratic,SD
+1972,Tennessee,357293,"McGovern, George",Democratic,TN
+1972,Texas,1154291,"McGovern, George",Democratic,TX
+1972,Utah,126284,"McGovern, George",Democratic,UT
+1972,Vermont,68174,"McGovern, George",Democratic,VT
+1972,Virginia,438887,"McGovern, George",Democratic,VA
+1972,Washington,568334,"McGovern, George",Democratic,WA
+1972,West Virginia,277435,"McGovern, George",Democratic,WV
+1972,Wisconsin,810174,"McGovern, George",Democratic,WI
+1972,Wyoming,44358,"McGovern, George",Democratic,WY
+1972,Washington DC,127627,"McGovern, George",Democratic,DC
+1972,Alabama,728701,"Nixon, Richard",Republican,AL
+1972,Alaska,55349,"Nixon, Richard",Republican,AK
+1972,Arizona,402812,"Nixon, Richard",Republican,AZ
+1972,Arkansas,445751,"Nixon, Richard",Republican,AR
+1972,California,4602096,"Nixon, Richard",Republican,CA
+1972,Colorado,597189,"Nixon, Richard",Republican,CO
+1972,Connecticut,810763,"Nixon, Richard",Republican,CT
+1972,Delaware,140357,"Nixon, Richard",Republican,DE
+1972,Florida,1857759,"Nixon, Richard",Republican,FL
+1972,Georgia,881496,"Nixon, Richard",Republican,GA
+1972,Hawaii,168865,"Nixon, Richard",Republican,HI
+1972,Idaho,199384,"Nixon, Richard",Republican,ID
+1972,Illinois,2788179,"Nixon, Richard",Republican,IL
+1972,Indiana,1405154,"Nixon, Richard",Republican,IN
+1972,Iowa,706207,"Nixon, Richard",Republican,IA
+1972,Kansas,619812,"Nixon, Richard",Republican,KS
+1972,Kentucky,676446,"Nixon, Richard",Republican,KY
+1972,Louisiana,686852,"Nixon, Richard",Republican,LA
+1972,Maine,256458,"Nixon, Richard",Republican,ME
+1972,Maryland,829305,"Nixon, Richard",Republican,MD
+1972,Massachusetts,1112078,"Nixon, Richard",Republican,MA
+1972,Michigan,1961721,"Nixon, Richard",Republican,MI
+1972,Minnesota,898269,"Nixon, Richard",Republican,MN
+1972,Mississippi,505125,"Nixon, Richard",Republican,MS
+1972,Missouri,1154058,"Nixon, Richard",Republican,MO
+1972,Montana,183976,"Nixon, Richard",Republican,MT
+1972,Nebraska,406298,"Nixon, Richard",Republican,NE
+1972,Nevada,115750,"Nixon, Richard",Republican,NV
+1972,New Hampshire,213724,"Nixon, Richard",Republican,NH
+1972,New Jersey,1845502,"Nixon, Richard",Republican,NJ
+1972,New Mexico,235606,"Nixon, Richard",Republican,NM
+1972,New York,4192778,"Nixon, Richard",Republican,NY
+1972,North Carolina,1054889,"Nixon, Richard",Republican,NC
+1972,North Dakota,174109,"Nixon, Richard",Republican,ND
+1972,Ohio,2441827,"Nixon, Richard",Republican,OH
+1972,Oklahoma,759025,"Nixon, Richard",Republican,OK
+1972,Oregon,486686,"Nixon, Richard",Republican,OR
+1972,Pennsylvania,2714521,"Nixon, Richard",Republican,PA
+1972,Rhode Island,220383,"Nixon, Richard",Republican,RI
+1972,South Carolina,478427,"Nixon, Richard",Republican,SC
+1972,South Dakota,166476,"Nixon, Richard",Republican,SD
+1972,Tennessee,813147,"Nixon, Richard",Republican,TN
+1972,Texas,2298896,"Nixon, Richard",Republican,TX
+1972,Utah,323643,"Nixon, Richard",Republican,UT
+1972,Vermont,117149,"Nixon, Richard",Republican,VT
+1972,Virginia,988493,"Nixon, Richard",Republican,VA
+1972,Washington,837135,"Nixon, Richard",Republican,WA
+1972,West Virginia,484964,"Nixon, Richard",Republican,WV
+1972,Wisconsin,989430,"Nixon, Richard",Republican,WI
+1972,Wyoming,100464,"Nixon, Richard",Republican,WY
+1972,Washington DC,35226,"Nixon, Richard",Republican,DC
+1968,Alabama,196579,"Humphrey, Hubert",Democratic,AL
+1968,Alaska,35411,"Humphrey, Hubert",Democratic,AK
+1968,Arizona,170514,"Humphrey, Hubert",Democratic,AZ
+1968,Arkansas,184901,"Humphrey, Hubert",Democratic,AR
+1968,California,3244318,"Humphrey, Hubert",Democratic,CA
+1968,Colorado,335174,"Humphrey, Hubert",Democratic,CO
+1968,Connecticut,621561,"Humphrey, Hubert",Democratic,CT
+1968,Delaware,89194,"Humphrey, Hubert",Democratic,DE
+1968,Florida,676794,"Humphrey, Hubert",Democratic,FL
+1968,Georgia,334440,"Humphrey, Hubert",Democratic,GA
+1968,Hawaii,141324,"Humphrey, Hubert",Democratic,HI
+1968,Idaho,89273,"Humphrey, Hubert",Democratic,ID
+1968,Illinois,2039814,"Humphrey, Hubert",Democratic,IL
+1968,Indiana,806659,"Humphrey, Hubert",Democratic,IN
+1968,Iowa,476699,"Humphrey, Hubert",Democratic,IA
+1968,Kansas,302996,"Humphrey, Hubert",Democratic,KS
+1968,Kentucky,397541,"Humphrey, Hubert",Democratic,KY
+1968,Louisiana,309615,"Humphrey, Hubert",Democratic,LA
+1968,Maine,217312,"Humphrey, Hubert",Democratic,ME
+1968,Maryland,538310,"Humphrey, Hubert",Democratic,MD
+1968,Massachusetts,1469218,"Humphrey, Hubert",Democratic,MA
+1968,Michigan,1593082,"Humphrey, Hubert",Democratic,MI
+1968,Minnesota,857738,"Humphrey, Hubert",Democratic,MN
+1968,Mississippi,150644,"Humphrey, Hubert",Democratic,MS
+1968,Missouri,791444,"Humphrey, Hubert",Democratic,MO
+1968,Montana,114117,"Humphrey, Hubert",Democratic,MT
+1968,Nebraska,170784,"Humphrey, Hubert",Democratic,NE
+1968,Nevada,60598,"Humphrey, Hubert",Democratic,NV
+1968,New Hampshire,130589,"Humphrey, Hubert",Democratic,NH
+1968,New Jersey,1264206,"Humphrey, Hubert",Democratic,NJ
+1968,New Mexico,130081,"Humphrey, Hubert",Democratic,NM
+1968,New York,3378470,"Humphrey, Hubert",Democratic,NY
+1968,North Carolina,464113,"Humphrey, Hubert",Democratic,NC
+1968,North Dakota,94769,"Humphrey, Hubert",Democratic,ND
+1968,Ohio,1700586,"Humphrey, Hubert",Democratic,OH
+1968,Oklahoma,301658,"Humphrey, Hubert",Democratic,OK
+1968,Oregon,358866,"Humphrey, Hubert",Democratic,OR
+1968,Pennsylvania,2259405,"Humphrey, Hubert",Democratic,PA
+1968,Rhode Island,246518,"Humphrey, Hubert",Democratic,RI
+1968,South Carolina,197486,"Humphrey, Hubert",Democratic,SC
+1968,South Dakota,118023,"Humphrey, Hubert",Democratic,SD
+1968,Tennessee,351233,"Humphrey, Hubert",Democratic,TN
+1968,Texas,1266804,"Humphrey, Hubert",Democratic,TX
+1968,Utah,156665,"Humphrey, Hubert",Democratic,UT
+1968,Vermont,70255,"Humphrey, Hubert",Democratic,VT
+1968,Virginia,442387,"Humphrey, Hubert",Democratic,VA
+1968,Washington,616037,"Humphrey, Hubert",Democratic,WA
+1968,West Virginia,374091,"Humphrey, Hubert",Democratic,WV
+1968,Wisconsin,748804,"Humphrey, Hubert",Democratic,WI
+1968,Wyoming,45173,"Humphrey, Hubert",Democratic,WY
+1968,Washington DC,139566,"Humphrey, Hubert",Democratic,DC
+1968,Alabama,146923,"Nixon, Richard",Republican,AL
+1968,Alaska,37600,"Nixon, Richard",Republican,AK
+1968,Arizona,266721,"Nixon, Richard",Republican,AZ
+1968,Arkansas,189062,"Nixon, Richard",Republican,AR
+1968,California,3467664,"Nixon, Richard",Republican,CA
+1968,Colorado,409345,"Nixon, Richard",Republican,CO
+1968,Connecticut,556721,"Nixon, Richard",Republican,CT
+1968,Delaware,96714,"Nixon, Richard",Republican,DE
+1968,Florida,886804,"Nixon, Richard",Republican,FL
+1968,Georgia,380111,"Nixon, Richard",Republican,GA
+1968,Hawaii,91425,"Nixon, Richard",Republican,HI
+1968,Idaho,165369,"Nixon, Richard",Republican,ID
+1968,Illinois,2174774,"Nixon, Richard",Republican,IL
+1968,Indiana,1067885,"Nixon, Richard",Republican,IN
+1968,Iowa,619106,"Nixon, Richard",Republican,IA
+1968,Kansas,478674,"Nixon, Richard",Republican,KS
+1968,Kentucky,462411,"Nixon, Richard",Republican,KY
+1968,Louisiana,257535,"Nixon, Richard",Republican,LA
+1968,Maine,169254,"Nixon, Richard",Republican,ME
+1968,Maryland,517995,"Nixon, Richard",Republican,MD
+1968,Massachusetts,766844,"Nixon, Richard",Republican,MA
+1968,Michigan,1370665,"Nixon, Richard",Republican,MI
+1968,Minnesota,658643,"Nixon, Richard",Republican,MN
+1968,Mississippi,88516,"Nixon, Richard",Republican,MS
+1968,Missouri,811932,"Nixon, Richard",Republican,MO
+1968,Montana,138835,"Nixon, Richard",Republican,MT
+1968,Nebraska,321163,"Nixon, Richard",Republican,NE
+1968,Nevada,73188,"Nixon, Richard",Republican,NV
+1968,New Hampshire,154903,"Nixon, Richard",Republican,NH
+1968,New Jersey,1325467,"Nixon, Richard",Republican,NJ
+1968,New Mexico,169692,"Nixon, Richard",Republican,NM
+1968,New York,3007932,"Nixon, Richard",Republican,NY
+1968,North Carolina,627192,"Nixon, Richard",Republican,NC
+1968,North Dakota,138669,"Nixon, Richard",Republican,ND
+1968,Ohio,1791014,"Nixon, Richard",Republican,OH
+1968,Oklahoma,449697,"Nixon, Richard",Republican,OK
+1968,Oregon,408433,"Nixon, Richard",Republican,OR
+1968,Pennsylvania,2090017,"Nixon, Richard",Republican,PA
+1968,Rhode Island,122359,"Nixon, Richard",Republican,RI
+1968,South Carolina,254062,"Nixon, Richard",Republican,SC
+1968,South Dakota,149841,"Nixon, Richard",Republican,SD
+1968,Tennessee,472592,"Nixon, Richard",Republican,TN
+1968,Texas,1227844,"Nixon, Richard",Republican,TX
+1968,Utah,238728,"Nixon, Richard",Republican,UT
+1968,Vermont,85142,"Nixon, Richard",Republican,VT
+1968,Virginia,590319,"Nixon, Richard",Republican,VA
+1968,Washington,588510,"Nixon, Richard",Republican,WA
+1968,West Virginia,307555,"Nixon, Richard",Republican,WV
+1968,Wisconsin,809997,"Nixon, Richard",Republican,WI
+1968,Wyoming,70927,"Nixon, Richard",Republican,WY
+1968,Washington DC,31012,"Nixon, Richard",Republican,DC
+1968,Alabama,691425,"Wallace, George",American Independent,AL
+1968,Alaska,10024,"Wallace, George",American Independent,AK
+1968,Arizona,46573,"Wallace, George",American Independent,AZ
+1968,Arkansas,235627,"Wallace, George",American Independent,AR
+1968,California,487270,"Wallace, George",American Independent,CA
+1968,Colorado,60813,"Wallace, George",American Independent,CO
+1968,Connecticut,76650,"Wallace, George",American Independent,CT
+1968,Delaware,28459,"Wallace, George",American Independent,DE
+1968,Florida,624207,"Wallace, George",American Independent,FL
+1968,Georgia,535550,"Wallace, George",American Independent,GA
+1968,Hawaii,3469,"Wallace, George",American Independent,HI
+1968,Idaho,36541,"Wallace, George",American Independent,ID
+1968,Illinois,390958,"Wallace, George",American Independent,IL
+1968,Indiana,243108,"Wallace, George",American Independent,IN
+1968,Iowa,66422,"Wallace, George",American Independent,IA
+1968,Kansas,88921,"Wallace, George",American Independent,KS
+1968,Kentucky,193098,"Wallace, George",American Independent,KY
+1968,Louisiana,530300,"Wallace, George",American Independent,LA
+1968,Maine,6370,"Wallace, George",American Independent,ME
+1968,Maryland,178734,"Wallace, George",American Independent,MD
+1968,Massachusetts,87088,"Wallace, George",American Independent,MA
+1968,Michigan,331968,"Wallace, George",American Independent,MI
+1968,Minnesota,68931,"Wallace, George",American Independent,MN
+1968,Mississippi,415349,"Wallace, George",American Independent,MS
+1968,Missouri,206126,"Wallace, George",American Independent,MO
+1968,Montana,20015,"Wallace, George",American Independent,MT
+1968,Nebraska,44904,"Wallace, George",American Independent,NE
+1968,Nevada,20432,"Wallace, George",American Independent,NV
+1968,New Hampshire,11173,"Wallace, George",American Independent,NH
+1968,New Jersey,262187,"Wallace, George",American Independent,NJ
+1968,New Mexico,25737,"Wallace, George",American Independent,NM
+1968,New York,358864,"Wallace, George",American Independent,NY
+1968,North Carolina,496188,"Wallace, George",American Independent,NC
+1968,North Dakota,14244,"Wallace, George",American Independent,ND
+1968,Ohio,467495,"Wallace, George",American Independent,OH
+1968,Oklahoma,191731,"Wallace, George",American Independent,OK
+1968,Oregon,49683,"Wallace, George",American Independent,OR
+1968,Pennsylvania,378582,"Wallace, George",American Independent,PA
+1968,Rhode Island,15678,"Wallace, George",American Independent,RI
+1968,South Carolina,215430,"Wallace, George",American Independent,SC
+1968,South Dakota,13400,"Wallace, George",American Independent,SD
+1968,Tennessee,424792,"Wallace, George",American Independent,TN
+1968,Texas,584269,"Wallace, George",American Independent,TX
+1968,Utah,26906,"Wallace, George",American Independent,UT
+1968,Vermont,5104,"Wallace, George",American Independent,VT
+1968,Virginia,321833,"Wallace, George",American Independent,VA
+1968,Washington,96990,"Wallace, George",American Independent,WA
+1968,West Virginia,72560,"Wallace, George",American Independent,WV
+1968,Wisconsin,127835,"Wallace, George",American Independent,WI
+1968,Wyoming,11105,"Wallace, George",American Independent,WY
+1968,Washington DC,0,"Wallace, George",American Independent,DC
+1964,Alabama,0,"Johnson, Lyndon (LBJ)",Democratic,AL
+1964,Alaska,44329,"Johnson, Lyndon (LBJ)",Democratic,AK
+1964,Arizona,237753,"Johnson, Lyndon (LBJ)",Democratic,AZ
+1964,Arkansas,314197,"Johnson, Lyndon (LBJ)",Democratic,AR
+1964,California,4171877,"Johnson, Lyndon (LBJ)",Democratic,CA
+1964,Colorado,476024,"Johnson, Lyndon (LBJ)",Democratic,CO
+1964,Connecticut,826269,"Johnson, Lyndon (LBJ)",Democratic,CT
+1964,Delaware,122704,"Johnson, Lyndon (LBJ)",Democratic,DE
+1964,Florida,948540,"Johnson, Lyndon (LBJ)",Democratic,FL
+1964,Georgia,522557,"Johnson, Lyndon (LBJ)",Democratic,GA
+1964,Hawaii,163249,"Johnson, Lyndon (LBJ)",Democratic,HI
+1964,Idaho,148920,"Johnson, Lyndon (LBJ)",Democratic,ID
+1964,Illinois,2796833,"Johnson, Lyndon (LBJ)",Democratic,IL
+1964,Indiana,1170848,"Johnson, Lyndon (LBJ)",Democratic,IN
+1964,Iowa,733030,"Johnson, Lyndon (LBJ)",Democratic,IA
+1964,Kansas,464028,"Johnson, Lyndon (LBJ)",Democratic,KS
+1964,Kentucky,669659,"Johnson, Lyndon (LBJ)",Democratic,KY
+1964,Louisiana,387068,"Johnson, Lyndon (LBJ)",Democratic,LA
+1964,Maine,262264,"Johnson, Lyndon (LBJ)",Democratic,ME
+1964,Maryland,730912,"Johnson, Lyndon (LBJ)",Democratic,MD
+1964,Massachusetts,1786422,"Johnson, Lyndon (LBJ)",Democratic,MA
+1964,Michigan,2136615,"Johnson, Lyndon (LBJ)",Democratic,MI
+1964,Minnesota,991117,"Johnson, Lyndon (LBJ)",Democratic,MN
+1964,Mississippi,52618,"Johnson, Lyndon (LBJ)",Democratic,MS
+1964,Missouri,1164344,"Johnson, Lyndon (LBJ)",Democratic,MO
+1964,Montana,164246,"Johnson, Lyndon (LBJ)",Democratic,MT
+1964,Nebraska,307307,"Johnson, Lyndon (LBJ)",Democratic,NE
+1964,Nevada,79339,"Johnson, Lyndon (LBJ)",Democratic,NV
+1964,New Hampshire,184064,"Johnson, Lyndon (LBJ)",Democratic,NH
+1964,New Jersey,1867671,"Johnson, Lyndon (LBJ)",Democratic,NJ
+1964,New Mexico,194017,"Johnson, Lyndon (LBJ)",Democratic,NM
+1964,New York,4913156,"Johnson, Lyndon (LBJ)",Democratic,NY
+1964,North Carolina,800139,"Johnson, Lyndon (LBJ)",Democratic,NC
+1964,North Dakota,149784,"Johnson, Lyndon (LBJ)",Democratic,ND
+1964,Ohio,2498331,"Johnson, Lyndon (LBJ)",Democratic,OH
+1964,Oklahoma,519834,"Johnson, Lyndon (LBJ)",Democratic,OK
+1964,Oregon,501017,"Johnson, Lyndon (LBJ)",Democratic,OR
+1964,Pennsylvania,3130954,"Johnson, Lyndon (LBJ)",Democratic,PA
+1964,Rhode Island,315463,"Johnson, Lyndon (LBJ)",Democratic,RI
+1964,South Carolina,215700,"Johnson, Lyndon (LBJ)",Democratic,SC
+1964,South Dakota,163010,"Johnson, Lyndon (LBJ)",Democratic,SD
+1964,Tennessee,634947,"Johnson, Lyndon (LBJ)",Democratic,TN
+1964,Texas,1663185,"Johnson, Lyndon (LBJ)",Democratic,TX
+1964,Utah,219628,"Johnson, Lyndon (LBJ)",Democratic,UT
+1964,Vermont,108127,"Johnson, Lyndon (LBJ)",Democratic,VT
+1964,Virginia,558038,"Johnson, Lyndon (LBJ)",Democratic,VA
+1964,Washington,779881,"Johnson, Lyndon (LBJ)",Democratic,WA
+1964,West Virginia,538087,"Johnson, Lyndon (LBJ)",Democratic,WV
+1964,Wisconsin,1050424,"Johnson, Lyndon (LBJ)",Democratic,WI
+1964,Wyoming,80718,"Johnson, Lyndon (LBJ)",Democratic,WY
+1964,Washington DC,169796,"Johnson, Lyndon (LBJ)",Democratic,DC
+1964,Alabama,479085,"Goldwater, Barry",Republican,AL
+1964,Alaska,22930,"Goldwater, Barry",Republican,AK
+1964,Arizona,242535,"Goldwater, Barry",Republican,AZ
+1964,Arkansas,243264,"Goldwater, Barry",Republican,AR
+1964,California,2879108,"Goldwater, Barry",Republican,CA
+1964,Colorado,296767,"Goldwater, Barry",Republican,CO
+1964,Connecticut,390996,"Goldwater, Barry",Republican,CT
+1964,Delaware,78078,"Goldwater, Barry",Republican,DE
+1964,Florida,905941,"Goldwater, Barry",Republican,FL
+1964,Georgia,616584,"Goldwater, Barry",Republican,GA
+1964,Hawaii,44022,"Goldwater, Barry",Republican,HI
+1964,Idaho,143557,"Goldwater, Barry",Republican,ID
+1964,Illinois,1905946,"Goldwater, Barry",Republican,IL
+1964,Indiana,911118,"Goldwater, Barry",Republican,IN
+1964,Iowa,449148,"Goldwater, Barry",Republican,IA
+1964,Kansas,386579,"Goldwater, Barry",Republican,KS
+1964,Kentucky,372977,"Goldwater, Barry",Republican,KY
+1964,Louisiana,509225,"Goldwater, Barry",Republican,LA
+1964,Maine,118701,"Goldwater, Barry",Republican,ME
+1964,Maryland,385495,"Goldwater, Barry",Republican,MD
+1964,Massachusetts,549727,"Goldwater, Barry",Republican,MA
+1964,Michigan,1060152,"Goldwater, Barry",Republican,MI
+1964,Minnesota,559624,"Goldwater, Barry",Republican,MN
+1964,Mississippi,356528,"Goldwater, Barry",Republican,MS
+1964,Missouri,653535,"Goldwater, Barry",Republican,MO
+1964,Montana,113032,"Goldwater, Barry",Republican,MT
+1964,Nebraska,276847,"Goldwater, Barry",Republican,NE
+1964,Nevada,56094,"Goldwater, Barry",Republican,NV
+1964,New Hampshire,104029,"Goldwater, Barry",Republican,NH
+1964,New Jersey,963843,"Goldwater, Barry",Republican,NJ
+1964,New Mexico,131838,"Goldwater, Barry",Republican,NM
+1964,New York,2243559,"Goldwater, Barry",Republican,NY
+1964,North Carolina,624844,"Goldwater, Barry",Republican,NC
+1964,North Dakota,108207,"Goldwater, Barry",Republican,ND
+1964,Ohio,1470865,"Goldwater, Barry",Republican,OH
+1964,Oklahoma,412665,"Goldwater, Barry",Republican,OK
+1964,Oregon,282779,"Goldwater, Barry",Republican,OR
+1964,Pennsylvania,1673657,"Goldwater, Barry",Republican,PA
+1964,Rhode Island,74615,"Goldwater, Barry",Republican,RI
+1964,South Carolina,309048,"Goldwater, Barry",Republican,SC
+1964,South Dakota,130108,"Goldwater, Barry",Republican,SD
+1964,Tennessee,508965,"Goldwater, Barry",Republican,TN
+1964,Texas,958566,"Goldwater, Barry",Republican,TX
+1964,Utah,180682,"Goldwater, Barry",Republican,UT
+1964,Vermont,54942,"Goldwater, Barry",Republican,VT
+1964,Virginia,481334,"Goldwater, Barry",Republican,VA
+1964,Washington,470366,"Goldwater, Barry",Republican,WA
+1964,West Virginia,253953,"Goldwater, Barry",Republican,WV
+1964,Wisconsin,638495,"Goldwater, Barry",Republican,WI
+1964,Wyoming,61998,"Goldwater, Barry",Republican,WY
+1964,Washington DC,28801,"Goldwater, Barry",Republican,DC
+1960,Alabama,318303,"Kennedy, Jack (JFK)",Democratic,AL
+1960,Alaska,29809,"Kennedy, Jack (JFK)",Democratic,AK
+1960,Arizona,176781,"Kennedy, Jack (JFK)",Democratic,AZ
+1960,Arkansas,215049,"Kennedy, Jack (JFK)",Democratic,AR
+1960,California,3224099,"Kennedy, Jack (JFK)",Democratic,CA
+1960,Colorado,330629,"Kennedy, Jack (JFK)",Democratic,CO
+1960,Connecticut,657055,"Kennedy, Jack (JFK)",Democratic,CT
+1960,Delaware,99590,"Kennedy, Jack (JFK)",Democratic,DE
+1960,Florida,748700,"Kennedy, Jack (JFK)",Democratic,FL
+1960,Georgia,458638,"Kennedy, Jack (JFK)",Democratic,GA
+1960,Hawaii,92410,"Kennedy, Jack (JFK)",Democratic,HI
+1960,Idaho,138853,"Kennedy, Jack (JFK)",Democratic,ID
+1960,Illinois,2377846,"Kennedy, Jack (JFK)",Democratic,IL
+1960,Indiana,952358,"Kennedy, Jack (JFK)",Democratic,IN
+1960,Iowa,550565,"Kennedy, Jack (JFK)",Democratic,IA
+1960,Kansas,363213,"Kennedy, Jack (JFK)",Democratic,KS
+1960,Kentucky,521855,"Kennedy, Jack (JFK)",Democratic,KY
+1960,Louisiana,407339,"Kennedy, Jack (JFK)",Democratic,LA
+1960,Maine,181159,"Kennedy, Jack (JFK)",Democratic,ME
+1960,Maryland,565808,"Kennedy, Jack (JFK)",Democratic,MD
+1960,Massachusetts,1487174,"Kennedy, Jack (JFK)",Democratic,MA
+1960,Michigan,1687269,"Kennedy, Jack (JFK)",Democratic,MI
+1960,Minnesota,779933,"Kennedy, Jack (JFK)",Democratic,MN
+1960,Mississippi,108362,"Kennedy, Jack (JFK)",Democratic,MS
+1960,Missouri,972201,"Kennedy, Jack (JFK)",Democratic,MO
+1960,Montana,134891,"Kennedy, Jack (JFK)",Democratic,MT
+1960,Nebraska,232542,"Kennedy, Jack (JFK)",Democratic,NE
+1960,Nevada,54880,"Kennedy, Jack (JFK)",Democratic,NV
+1960,New Hampshire,137772,"Kennedy, Jack (JFK)",Democratic,NH
+1960,New Jersey,1385415,"Kennedy, Jack (JFK)",Democratic,NJ
+1960,New Mexico,156027,"Kennedy, Jack (JFK)",Democratic,NM
+1960,New York,3830085,"Kennedy, Jack (JFK)",Democratic,NY
+1960,North Carolina,713136,"Kennedy, Jack (JFK)",Democratic,NC
+1960,North Dakota,123963,"Kennedy, Jack (JFK)",Democratic,ND
+1960,Ohio,1944248,"Kennedy, Jack (JFK)",Democratic,OH
+1960,Oklahoma,370111,"Kennedy, Jack (JFK)",Democratic,OK
+1960,Oregon,367402,"Kennedy, Jack (JFK)",Democratic,OR
+1960,Pennsylvania,2556282,"Kennedy, Jack (JFK)",Democratic,PA
+1960,Rhode Island,258032,"Kennedy, Jack (JFK)",Democratic,RI
+1960,South Carolina,198129,"Kennedy, Jack (JFK)",Democratic,SC
+1960,South Dakota,128070,"Kennedy, Jack (JFK)",Democratic,SD
+1960,Tennessee,481453,"Kennedy, Jack (JFK)",Democratic,TN
+1960,Texas,1167567,"Kennedy, Jack (JFK)",Democratic,TX
+1960,Utah,169248,"Kennedy, Jack (JFK)",Democratic,UT
+1960,Vermont,69186,"Kennedy, Jack (JFK)",Democratic,VT
+1960,Virginia,362327,"Kennedy, Jack (JFK)",Democratic,VA
+1960,Washington,599298,"Kennedy, Jack (JFK)",Democratic,WA
+1960,West Virginia,441786,"Kennedy, Jack (JFK)",Democratic,WV
+1960,Wisconsin,830805,"Kennedy, Jack (JFK)",Democratic,WI
+1960,Wyoming,63331,"Kennedy, Jack (JFK)",Democratic,WY
+1960,Washington DC,,"Kennedy, Jack (JFK)",Democratic,DC
+1960,Alabama,237981,"Nixon, Richard",Republican,AL
+1960,Alaska,30953,"Nixon, Richard",Republican,AK
+1960,Arizona,221241,"Nixon, Richard",Republican,AZ
+1960,Arkansas,184508,"Nixon, Richard",Republican,AR
+1960,California,3259722,"Nixon, Richard",Republican,CA
+1960,Colorado,402242,"Nixon, Richard",Republican,CO
+1960,Connecticut,565813,"Nixon, Richard",Republican,CT
+1960,Delaware,96373,"Nixon, Richard",Republican,DE
+1960,Florida,795476,"Nixon, Richard",Republican,FL
+1960,Georgia,274472,"Nixon, Richard",Republican,GA
+1960,Hawaii,92295,"Nixon, Richard",Republican,HI
+1960,Idaho,161597,"Nixon, Richard",Republican,ID
+1960,Illinois,2368988,"Nixon, Richard",Republican,IL
+1960,Indiana,1175120,"Nixon, Richard",Republican,IN
+1960,Iowa,722381,"Nixon, Richard",Republican,IA
+1960,Kansas,561474,"Nixon, Richard",Republican,KS
+1960,Kentucky,602607,"Nixon, Richard",Republican,KY
+1960,Louisiana,230980,"Nixon, Richard",Republican,LA
+1960,Maine,240608,"Nixon, Richard",Republican,ME
+1960,Maryland,489538,"Nixon, Richard",Republican,MD
+1960,Massachusetts,976750,"Nixon, Richard",Republican,MA
+1960,Michigan,1620428,"Nixon, Richard",Republican,MI
+1960,Minnesota,757915,"Nixon, Richard",Republican,MN
+1960,Mississippi,73561,"Nixon, Richard",Republican,MS
+1960,Missouri,962221,"Nixon, Richard",Republican,MO
+1960,Montana,141841,"Nixon, Richard",Republican,MT
+1960,Nebraska,380553,"Nixon, Richard",Republican,NE
+1960,Nevada,52387,"Nixon, Richard",Republican,NV
+1960,New Hampshire,157989,"Nixon, Richard",Republican,NH
+1960,New Jersey,1363324,"Nixon, Richard",Republican,NJ
+1960,New Mexico,153733,"Nixon, Richard",Republican,NM
+1960,New York,3446419,"Nixon, Richard",Republican,NY
+1960,North Carolina,655420,"Nixon, Richard",Republican,NC
+1960,North Dakota,154310,"Nixon, Richard",Republican,ND
+1960,Ohio,2217611,"Nixon, Richard",Republican,OH
+1960,Oklahoma,533039,"Nixon, Richard",Republican,OK
+1960,Oregon,408060,"Nixon, Richard",Republican,OR
+1960,Pennsylvania,2439956,"Nixon, Richard",Republican,PA
+1960,Rhode Island,147502,"Nixon, Richard",Republican,RI
+1960,South Carolina,188558,"Nixon, Richard",Republican,SC
+1960,South Dakota,178417,"Nixon, Richard",Republican,SD
+1960,Tennessee,556577,"Nixon, Richard",Republican,TN
+1960,Texas,1121310,"Nixon, Richard",Republican,TX
+1960,Utah,205361,"Nixon, Richard",Republican,UT
+1960,Vermont,98131,"Nixon, Richard",Republican,VT
+1960,Virginia,404521,"Nixon, Richard",Republican,VA
+1960,Washington,629273,"Nixon, Richard",Republican,WA
+1960,West Virginia,395995,"Nixon, Richard",Republican,WV
+1960,Wisconsin,895175,"Nixon, Richard",Republican,WI
+1960,Wyoming,77451,"Nixon, Richard",Republican,WY
+1960,Washington DC,,"Nixon, Richard",Republican,DC
+1960,Alabama,8189,"Other (Unpledge Democratic, etc.)",,AL
+1960,Alaska,0,"Other (Unpledge Democratic, etc.)",,AK
+1960,Arizona,469,"Other (Unpledge Democratic, etc.)",,AZ
+1960,Arkansas,28952,"Other (Unpledge Democratic, etc.)",,AR
+1960,California,22757,"Other (Unpledge Democratic, etc.)",,CA
+1960,Colorado,3375,"Other (Unpledge Democratic, etc.)",,CO
+1960,Connecticut,15,"Other (Unpledge Democratic, etc.)",,CT
+1960,Delaware,720,"Other (Unpledge Democratic, etc.)",,DE
+1960,Florida,0,"Other (Unpledge Democratic, etc.)",,FL
+1960,Georgia,239,"Other (Unpledge Democratic, etc.)",,GA
+1960,Hawaii,0,"Other (Unpledge Democratic, etc.)",,HI
+1960,Idaho,0,"Other (Unpledge Democratic, etc.)",,ID
+1960,Illinois,10575,"Other (Unpledge Democratic, etc.)",,IL
+1960,Indiana,7882,"Other (Unpledge Democratic, etc.)",,IN
+1960,Iowa,864,"Other (Unpledge Democratic, etc.)",,IA
+1960,Kansas,4138,"Other (Unpledge Democratic, etc.)",,KS
+1960,Kentucky,0,"Other (Unpledge Democratic, etc.)",,KY
+1960,Louisiana,169572,"Other (Unpledge Democratic, etc.)",,LA
+1960,Maine,6,"Other (Unpledge Democratic, etc.)",,ME
+1960,Maryland,3,"Other (Unpledge Democratic, etc.)",,MD
+1960,Massachusetts,5556,"Other (Unpledge Democratic, etc.)",,MA
+1960,Michigan,10400,"Other (Unpledge Democratic, etc.)",,MI
+1960,Minnesota,4039,"Other (Unpledge Democratic, etc.)",,MN
+1960,Mississippi,116248,"Other (Unpledge Democratic, etc.)",,MS
+1960,Missouri,0,"Other (Unpledge Democratic, etc.)",,MO
+1960,Montana,847,"Other (Unpledge Democratic, etc.)",,MT
+1960,Nebraska,0,"Other (Unpledge Democratic, etc.)",,NE
+1960,Nevada,0,"Other (Unpledge Democratic, etc.)",,NV
+1960,New Hampshire,0,"Other (Unpledge Democratic, etc.)",,NH
+1960,New Jersey,24372,"Other (Unpledge Democratic, etc.)",,NJ
+1960,New Mexico,1347,"Other (Unpledge Democratic, etc.)",,NM
+1960,New York,14575,"Other (Unpledge Democratic, etc.)",,NY
+1960,North Carolina,0,"Other (Unpledge Democratic, etc.)",,NC
+1960,North Dakota,158,"Other (Unpledge Democratic, etc.)",,ND
+1960,Ohio,0,"Other (Unpledge Democratic, etc.)",,OH
+1960,Oklahoma,0,"Other (Unpledge Democratic, etc.)",,OK
+1960,Oregon,959,"Other (Unpledge Democratic, etc.)",,OR
+1960,Pennsylvania,10303,"Other (Unpledge Democratic, etc.)",,PA
+1960,Rhode Island,1,"Other (Unpledge Democratic, etc.)",,RI
+1960,South Carolina,1,"Other (Unpledge Democratic, etc.)",,SC
+1960,South Dakota,0,"Other (Unpledge Democratic, etc.)",,SD
+1960,Tennessee,13762,"Other (Unpledge Democratic, etc.)",,TN
+1960,Texas,22207,"Other (Unpledge Democratic, etc.)",,TX
+1960,Utah,100,"Other (Unpledge Democratic, etc.)",,UT
+1960,Vermont,7,"Other (Unpledge Democratic, etc.)",,VT
+1960,Virginia,4601,"Other (Unpledge Democratic, etc.)",,VA
+1960,Washington,13001,"Other (Unpledge Democratic, etc.)",,WA
+1960,West Virginia,0,"Other (Unpledge Democratic, etc.)",,WV
+1960,Wisconsin,3102,"Other (Unpledge Democratic, etc.)",,WI
+1960,Wyoming,0,"Other (Unpledge Democratic, etc.)",,WY
+1960,Washington DC,,"Other (Unpledge Democratic, etc.)",,DC
+1956,Alabama,280844,"Stevenson, Adlai",Democratic,AL
+1956,Alaska,,"Stevenson, Adlai",Democratic,AK
+1956,Arizona,112880,"Stevenson, Adlai",Democratic,AZ
+1956,Arkansas,213277,"Stevenson, Adlai",Democratic,AR
+1956,California,2420135,"Stevenson, Adlai",Democratic,CA
+1956,Colorado,263997,"Stevenson, Adlai",Democratic,CO
+1956,Connecticut,405079,"Stevenson, Adlai",Democratic,CT
+1956,Delaware,79421,"Stevenson, Adlai",Democratic,DE
+1956,Florida,480371,"Stevenson, Adlai",Democratic,FL
+1956,Georgia,441094,"Stevenson, Adlai",Democratic,GA
+1956,Hawaii,,"Stevenson, Adlai",Democratic,HI
+1956,Idaho,105868,"Stevenson, Adlai",Democratic,ID
+1956,Illinois,1775682,"Stevenson, Adlai",Democratic,IL
+1956,Indiana,783908,"Stevenson, Adlai",Democratic,IN
+1956,Iowa,501858,"Stevenson, Adlai",Democratic,IA
+1956,Kansas,296317,"Stevenson, Adlai",Democratic,KS
+1956,Kentucky,476453,"Stevenson, Adlai",Democratic,KY
+1956,Louisiana,243977,"Stevenson, Adlai",Democratic,LA
+1956,Maine,102468,"Stevenson, Adlai",Democratic,ME
+1956,Maryland,372613,"Stevenson, Adlai",Democratic,MD
+1956,Massachusetts,948190,"Stevenson, Adlai",Democratic,MA
+1956,Michigan,1359898,"Stevenson, Adlai",Democratic,MI
+1956,Minnesota,617525,"Stevenson, Adlai",Democratic,MN
+1956,Mississippi,144498,"Stevenson, Adlai",Democratic,MS
+1956,Missouri,918273,"Stevenson, Adlai",Democratic,MO
+1956,Montana,116238,"Stevenson, Adlai",Democratic,MT
+1956,Nebraska,199029,"Stevenson, Adlai",Democratic,NE
+1956,Nevada,40640,"Stevenson, Adlai",Democratic,NV
+1956,New Hampshire,90364,"Stevenson, Adlai",Democratic,NH
+1956,New Jersey,850337,"Stevenson, Adlai",Democratic,NJ
+1956,New Mexico,106098,"Stevenson, Adlai",Democratic,NM
+1956,New York,2750769,"Stevenson, Adlai",Democratic,NY
+1956,North Carolina,590530,"Stevenson, Adlai",Democratic,NC
+1956,North Dakota,96742,"Stevenson, Adlai",Democratic,ND
+1956,Ohio,1439655,"Stevenson, Adlai",Democratic,OH
+1956,Oklahoma,385581,"Stevenson, Adlai",Democratic,OK
+1956,Oregon,329204,"Stevenson, Adlai",Democratic,OR
+1956,Pennsylvania,1981769,"Stevenson, Adlai",Democratic,PA
+1956,Rhode Island,161790,"Stevenson, Adlai",Democratic,RI
+1956,South Carolina,136372,"Stevenson, Adlai",Democratic,SC
+1956,South Dakota,122288,"Stevenson, Adlai",Democratic,SD
+1956,Tennessee,456507,"Stevenson, Adlai",Democratic,TN
+1956,Texas,859958,"Stevenson, Adlai",Democratic,TX
+1956,Utah,118364,"Stevenson, Adlai",Democratic,UT
+1956,Vermont,42549,"Stevenson, Adlai",Democratic,VT
+1956,Virginia,267760,"Stevenson, Adlai",Democratic,VA
+1956,Washington,523002,"Stevenson, Adlai",Democratic,WA
+1956,West Virginia,381534,"Stevenson, Adlai",Democratic,WV
+1956,Wisconsin,586768,"Stevenson, Adlai",Democratic,WI
+1956,Wyoming,49554,"Stevenson, Adlai",Democratic,WY
+1956,Washington DC,,"Stevenson, Adlai",Democratic,DC
+1956,Alabama,195694,"Eisenhower, Dwight",Republican,AL
+1956,Alaska,,"Eisenhower, Dwight",Republican,AK
+1956,Arizona,176990,"Eisenhower, Dwight",Republican,AZ
+1956,Arkansas,186287,"Eisenhower, Dwight",Republican,AR
+1956,California,3027668,"Eisenhower, Dwight",Republican,CA
+1956,Colorado,394479,"Eisenhower, Dwight",Republican,CO
+1956,Connecticut,711837,"Eisenhower, Dwight",Republican,CT
+1956,Delaware,98057,"Eisenhower, Dwight",Republican,DE
+1956,Florida,643849,"Eisenhower, Dwight",Republican,FL
+1956,Georgia,216652,"Eisenhower, Dwight",Republican,GA
+1956,Hawaii,,"Eisenhower, Dwight",Republican,HI
+1956,Idaho,166979,"Eisenhower, Dwight",Republican,ID
+1956,Illinois,2623327,"Eisenhower, Dwight",Republican,IL
+1956,Indiana,1182811,"Eisenhower, Dwight",Republican,IN
+1956,Iowa,729187,"Eisenhower, Dwight",Republican,IA
+1956,Kansas,566878,"Eisenhower, Dwight",Republican,KS
+1956,Kentucky,572192,"Eisenhower, Dwight",Republican,KY
+1956,Louisiana,329047,"Eisenhower, Dwight",Republican,LA
+1956,Maine,249238,"Eisenhower, Dwight",Republican,ME
+1956,Maryland,559738,"Eisenhower, Dwight",Republican,MD
+1956,Massachusetts,1393197,"Eisenhower, Dwight",Republican,MA
+1956,Michigan,1713647,"Eisenhower, Dwight",Republican,MI
+1956,Minnesota,719302,"Eisenhower, Dwight",Republican,MN
+1956,Mississippi,60685,"Eisenhower, Dwight",Republican,MS
+1956,Missouri,914289,"Eisenhower, Dwight",Republican,MO
+1956,Montana,154933,"Eisenhower, Dwight",Republican,MT
+1956,Nebraska,378108,"Eisenhower, Dwight",Republican,NE
+1956,Nevada,56049,"Eisenhower, Dwight",Republican,NV
+1956,New Hampshire,176519,"Eisenhower, Dwight",Republican,NH
+1956,New Jersey,1606942,"Eisenhower, Dwight",Republican,NJ
+1956,New Mexico,146788,"Eisenhower, Dwight",Republican,NM
+1956,New York,4340340,"Eisenhower, Dwight",Republican,NY
+1956,North Carolina,575062,"Eisenhower, Dwight",Republican,NC
+1956,North Dakota,156766,"Eisenhower, Dwight",Republican,ND
+1956,Ohio,2262610,"Eisenhower, Dwight",Republican,OH
+1956,Oklahoma,473769,"Eisenhower, Dwight",Republican,OK
+1956,Oregon,406393,"Eisenhower, Dwight",Republican,OR
+1956,Pennsylvania,2585252,"Eisenhower, Dwight",Republican,PA
+1956,Rhode Island,225819,"Eisenhower, Dwight",Republican,RI
+1956,South Carolina,75700,"Eisenhower, Dwight",Republican,SC
+1956,South Dakota,171569,"Eisenhower, Dwight",Republican,SD
+1956,Tennessee,462288,"Eisenhower, Dwight",Republican,TN
+1956,Texas,1080619,"Eisenhower, Dwight",Republican,TX
+1956,Utah,215631,"Eisenhower, Dwight",Republican,UT
+1956,Vermont,110390,"Eisenhower, Dwight",Republican,VT
+1956,Virginia,386459,"Eisenhower, Dwight",Republican,VA
+1956,Washington,620430,"Eisenhower, Dwight",Republican,WA
+1956,West Virginia,449297,"Eisenhower, Dwight",Republican,WV
+1956,Wisconsin,954844,"Eisenhower, Dwight",Republican,WI
+1956,Wyoming,74573,"Eisenhower, Dwight",Republican,WY
+1956,Washington DC,,"Eisenhower, Dwight",Republican,DC
+1956,Alabama,20333,"Other (Unpledged Democratic, etc.)",,AL
+1956,Alaska,,"Other (Unpledged Democratic, etc.)",,AK
+1956,Arizona,303,"Other (Unpledged Democratic, etc.)",,AZ
+1956,Arkansas,7008,"Other (Unpledged Democratic, etc.)",,AR
+1956,California,18552,"Other (Unpledged Democratic, etc.)",,CA
+1956,Colorado,4598,"Other (Unpledged Democratic, etc.)",,CO
+1956,Connecticut,205,"Other (Unpledged Democratic, etc.)",,CT
+1956,Delaware,510,"Other (Unpledged Democratic, etc.)",,DE
+1956,Florida,0,"Other (Unpledged Democratic, etc.)",,FL
+1956,Georgia,5734,"Other (Unpledged Democratic, etc.)",,GA
+1956,Hawaii,,"Other (Unpledged Democratic, etc.)",,HI
+1956,Idaho,142,"Other (Unpledged Democratic, etc.)",,ID
+1956,Illinois,8398,"Other (Unpledged Democratic, etc.)",,IL
+1956,Indiana,7888,"Other (Unpledged Democratic, etc.)",,IN
+1956,Iowa,3519,"Other (Unpledged Democratic, etc.)",,IA
+1956,Kansas,3048,"Other (Unpledged Democratic, etc.)",,KS
+1956,Kentucky,5160,"Other (Unpledged Democratic, etc.)",,KY
+1956,Louisiana,44520,"Other (Unpledged Democratic, etc.)",,LA
+1956,Maine,0,"Other (Unpledged Democratic, etc.)",,ME
+1956,Maryland,0,"Other (Unpledged Democratic, etc.)",,MD
+1956,Massachusetts,7119,"Other (Unpledged Democratic, etc.)",,MA
+1956,Michigan,6923,"Other (Unpledged Democratic, etc.)",,MI
+1956,Minnesota,3178,"Other (Unpledged Democratic, etc.)",,MN
+1956,Mississippi,42966,"Other (Unpledged Democratic, etc.)",,MS
+1956,Missouri,0,"Other (Unpledged Democratic, etc.)",,MO
+1956,Montana,0,"Other (Unpledged Democratic, etc.)",,MT
+1956,Nebraska,0,"Other (Unpledged Democratic, etc.)",,NE
+1956,Nevada,0,"Other (Unpledged Democratic, etc.)",,NV
+1956,New Hampshire,111,"Other (Unpledged Democratic, etc.)",,NH
+1956,New Jersey,27033,"Other (Unpledged Democratic, etc.)",,NJ
+1956,New Mexico,1040,"Other (Unpledged Democratic, etc.)",,NM
+1956,New York,2227,"Other (Unpledged Democratic, etc.)",,NY
+1956,North Carolina,0,"Other (Unpledged Democratic, etc.)",,NC
+1956,North Dakota,483,"Other (Unpledged Democratic, etc.)",,ND
+1956,Ohio,0,"Other (Unpledged Democratic, etc.)",,OH
+1956,Oklahoma,0,"Other (Unpledged Democratic, etc.)",,OK
+1956,Oregon,0,"Other (Unpledged Democratic, etc.)",,OR
+1956,Pennsylvania,9482,"Other (Unpledged Democratic, etc.)",,PA
+1956,Rhode Island,2,"Other (Unpledged Democratic, etc.)",,RI
+1956,South Carolina,88511,"Other (Unpledged Democratic, etc.)",,SC
+1956,South Dakota,0,"Other (Unpledged Democratic, etc.)",,SD
+1956,Tennessee,20609,"Other (Unpledged Democratic, etc.)",,TN
+1956,Texas,14968,"Other (Unpledged Democratic, etc.)",,TX
+1956,Utah,0,"Other (Unpledged Democratic, etc.)",,UT
+1956,Vermont,39,"Other (Unpledged Democratic, etc.)",,VT
+1956,Virginia,43759,"Other (Unpledged Democratic, etc.)",,VA
+1956,Washington,7457,"Other (Unpledged Democratic, etc.)",,WA
+1956,West Virginia,0,"Other (Unpledged Democratic, etc.)",,WV
+1956,Wisconsin,8946,"Other (Unpledged Democratic, etc.)",,WI
+1956,Wyoming,0,"Other (Unpledged Democratic, etc.)",,WY
+1956,Washington DC,,"Other (Unpledged Democratic, etc.)",,DC
+1952,Alabama,275075,"Stevenson, Adlai",Democratic,AL
+1952,Alaska,,"Stevenson, Adlai",Democratic,AK
+1952,Arizona,108528,"Stevenson, Adlai",Democratic,AZ
+1952,Arkansas,226300,"Stevenson, Adlai",Democratic,AR
+1952,California,2257646,"Stevenson, Adlai",Democratic,CA
+1952,Colorado,245504,"Stevenson, Adlai",Democratic,CO
+1952,Connecticut,481649,"Stevenson, Adlai",Democratic,CT
+1952,Delaware,83315,"Stevenson, Adlai",Democratic,DE
+1952,Florida,444950,"Stevenson, Adlai",Democratic,FL
+1952,Georgia,456823,"Stevenson, Adlai",Democratic,GA
+1952,Hawaii,,"Stevenson, Adlai",Democratic,HI
+1952,Idaho,95081,"Stevenson, Adlai",Democratic,ID
+1952,Illinois,2013920,"Stevenson, Adlai",Democratic,IL
+1952,Indiana,801530,"Stevenson, Adlai",Democratic,IN
+1952,Iowa,451513,"Stevenson, Adlai",Democratic,IA
+1952,Kansas,273296,"Stevenson, Adlai",Democratic,KS
+1952,Kentucky,495729,"Stevenson, Adlai",Democratic,KY
+1952,Louisiana,345027,"Stevenson, Adlai",Democratic,LA
+1952,Maine,118806,"Stevenson, Adlai",Democratic,ME
+1952,Maryland,395337,"Stevenson, Adlai",Democratic,MD
+1952,Massachusetts,1083525,"Stevenson, Adlai",Democratic,MA
+1952,Michigan,1230657,"Stevenson, Adlai",Democratic,MI
+1952,Minnesota,608458,"Stevenson, Adlai",Democratic,MN
+1952,Mississippi,172566,"Stevenson, Adlai",Democratic,MS
+1952,Missouri,929830,"Stevenson, Adlai",Democratic,MO
+1952,Montana,106213,"Stevenson, Adlai",Democratic,MT
+1952,Nebraska,188057,"Stevenson, Adlai",Democratic,NE
+1952,Nevada,31688,"Stevenson, Adlai",Democratic,NV
+1952,New Hampshire,106663,"Stevenson, Adlai",Democratic,NH
+1952,New Jersey,1015902,"Stevenson, Adlai",Democratic,NJ
+1952,New Mexico,105661,"Stevenson, Adlai",Democratic,NM
+1952,New York,3104601,"Stevenson, Adlai",Democratic,NY
+1952,North Carolina,652803,"Stevenson, Adlai",Democratic,NC
+1952,North Dakota,76694,"Stevenson, Adlai",Democratic,ND
+1952,Ohio,1600367,"Stevenson, Adlai",Democratic,OH
+1952,Oklahoma,430939,"Stevenson, Adlai",Democratic,OK
+1952,Oregon,270579,"Stevenson, Adlai",Democratic,OR
+1952,Pennsylvania,2146269,"Stevenson, Adlai",Democratic,PA
+1952,Rhode Island,203293,"Stevenson, Adlai",Democratic,RI
+1952,South Carolina,173004,"Stevenson, Adlai",Democratic,SC
+1952,South Dakota,90426,"Stevenson, Adlai",Democratic,SD
+1952,Tennessee,443710,"Stevenson, Adlai",Democratic,TN
+1952,Texas,969228,"Stevenson, Adlai",Democratic,TX
+1952,Utah,135364,"Stevenson, Adlai",Democratic,UT
+1952,Vermont,43355,"Stevenson, Adlai",Democratic,VT
+1952,Virginia,268677,"Stevenson, Adlai",Democratic,VA
+1952,Washington,492845,"Stevenson, Adlai",Democratic,WA
+1952,West Virginia,453578,"Stevenson, Adlai",Democratic,WV
+1952,Wisconsin,622175,"Stevenson, Adlai",Democratic,WI
+1952,Wyoming,47934,"Stevenson, Adlai",Democratic,WY
+1952,Washington DC,,"Stevenson, Adlai",Democratic,DC
+1952,Alabama,149231,"Eisenhower, Dwight",Republican,AL
+1952,Alaska,,"Eisenhower, Dwight",Republican,AK
+1952,Arizona,152042,"Eisenhower, Dwight",Republican,AZ
+1952,Arkansas,177155,"Eisenhower, Dwight",Republican,AR
+1952,California,3035587,"Eisenhower, Dwight",Republican,CA
+1952,Colorado,379782,"Eisenhower, Dwight",Republican,CO
+1952,Connecticut,611012,"Eisenhower, Dwight",Republican,CT
+1952,Delaware,90059,"Eisenhower, Dwight",Republican,DE
+1952,Florida,544036,"Eisenhower, Dwight",Republican,FL
+1952,Georgia,198979,"Eisenhower, Dwight",Republican,GA
+1952,Hawaii,,"Eisenhower, Dwight",Republican,HI
+1952,Idaho,180707,"Eisenhower, Dwight",Republican,ID
+1952,Illinois,2457327,"Eisenhower, Dwight",Republican,IL
+1952,Indiana,1136259,"Eisenhower, Dwight",Republican,IN
+1952,Iowa,808906,"Eisenhower, Dwight",Republican,IA
+1952,Kansas,616302,"Eisenhower, Dwight",Republican,KS
+1952,Kentucky,495029,"Eisenhower, Dwight",Republican,KY
+1952,Louisiana,306925,"Eisenhower, Dwight",Republican,LA
+1952,Maine,232353,"Eisenhower, Dwight",Republican,ME
+1952,Maryland,499424,"Eisenhower, Dwight",Republican,MD
+1952,Massachusetts,1292325,"Eisenhower, Dwight",Republican,MA
+1952,Michigan,1551529,"Eisenhower, Dwight",Republican,MI
+1952,Minnesota,763211,"Eisenhower, Dwight",Republican,MN
+1952,Mississippi,112966,"Eisenhower, Dwight",Republican,MS
+1952,Missouri,959429,"Eisenhower, Dwight",Republican,MO
+1952,Montana,157394,"Eisenhower, Dwight",Republican,MT
+1952,Nebraska,421603,"Eisenhower, Dwight",Republican,NE
+1952,Nevada,50502,"Eisenhower, Dwight",Republican,NV
+1952,New Hampshire,166287,"Eisenhower, Dwight",Republican,NH
+1952,New Jersey,1374613,"Eisenhower, Dwight",Republican,NJ
+1952,New Mexico,132170,"Eisenhower, Dwight",Republican,NM
+1952,New York,3952815,"Eisenhower, Dwight",Republican,NY
+1952,North Carolina,558107,"Eisenhower, Dwight",Republican,NC
+1952,North Dakota,191712,"Eisenhower, Dwight",Republican,ND
+1952,Ohio,2100391,"Eisenhower, Dwight",Republican,OH
+1952,Oklahoma,518045,"Eisenhower, Dwight",Republican,OK
+1952,Oregon,420815,"Eisenhower, Dwight",Republican,OR
+1952,Pennsylvania,2415789,"Eisenhower, Dwight",Republican,PA
+1952,Rhode Island,210935,"Eisenhower, Dwight",Republican,RI
+1952,South Carolina,168082,"Eisenhower, Dwight",Republican,SC
+1952,South Dakota,203857,"Eisenhower, Dwight",Republican,SD
+1952,Tennessee,446147,"Eisenhower, Dwight",Republican,TN
+1952,Texas,1102878,"Eisenhower, Dwight",Republican,TX
+1952,Utah,194190,"Eisenhower, Dwight",Republican,UT
+1952,Vermont,109717,"Eisenhower, Dwight",Republican,VT
+1952,Virginia,349037,"Eisenhower, Dwight",Republican,VA
+1952,Washington,599107,"Eisenhower, Dwight",Republican,WA
+1952,West Virginia,419970,"Eisenhower, Dwight",Republican,WV
+1952,Wisconsin,979744,"Eisenhower, Dwight",Republican,WI
+1952,Wyoming,81047,"Eisenhower, Dwight",Republican,WY
+1952,Washington DC,,"Eisenhower, Dwight",Republican,DC
